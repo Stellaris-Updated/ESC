@@ -1,0 +1,115 @@
+﻿l_german:
+
+### GERMAN LOCALIZATION
+
+nhsc_building_centralresearchbureau: "Zentrales Forschungsbüro"
+nhsc_building_centralresearchbureau_desc: "Ein Ort, an dem die klügsten Köpfe des Imperiums zusammenkommen, um die Wissenschaft voranzubringen."
+
+nhsc_building_culture_nexus: "Kultur-Nexus"
+nhsc_building_culture_nexus_desc: "Ein Ort, an dem die Menschen unseres Imperiums etwas über die Galaxie und die verschiedenen Kulturen, die sie bewohnen, lernen können."
+nhsc_building_cerebral_node: "Zerebralknoten"
+nhsc_building_cerebral_node_desc: "Ein großes Zerebrat, das ständig darüber nachdenkt, wie man den Hive weiter verbessern kann."
+job_esc_mind_walker_effect_desc: "£job_esc_mind_walker£ $job_esc_mind_walker_plural$ vereinigen den Bienenstock und erzeugen £unity£ §Y$unity$§!"
+nhsc_building_network_regulator: "Netzwerk-Regulator"
+nhsc_building_network_regulator_desc: "Ein spezialisierter Verarbeitungsknoten, der Informationen zwischen den von ihm kontrollierten Maschinen umverteilt und so deren Effizienz erheblich verbessert."
+job_esc_network_curator_effect_desc: "£job_esc_network_curator£ $job_esc_network_curator_plural$ manage the data flow within the Machine Intelligence, producing £unity£ §Y$unity$§!"
+
+nhsc_building_materials_laboratory: "Labor für fortschrittliche Materialien"
+nhsc_building_materials_laboratory_desc: "Ein großes Labor, das sich der Entwicklung besserer Materialien widmet, sowohl für spezielle Projekte als auch für den täglichen Gebrauch."
+
+nhsc_building_technology_institute: "Technologieinstitut"
+nhsc_building_technology_institute_desc: "Ein großer wissenschaftlicher Komplex, der dem technologischen Fortschritt unseres Reiches gewidmet ist."
+
+nhsc_building_enigmatic_tower: "Enigmatischer Energie-Sammler"
+nhsc_building_enigmatic_tower_desc: "Ein hoch aufragendes Gebäude auf dem Planeten, das die von den rätselhaften Energiekernen erzeugte Energie sammelt.
+
+nhsc_building_stellar_energy_tower: "Stellarer Energieturm"
+nhsc_building_stellar_energy_tower_desc: "Massiver Turm, der leichte Elemente in reine Energie umwandelt, wie eine Miniatursonne."
+
+nhsc_building_quantum_node: "Knotenpunkt für Quantenberechnungen"
+nhsc_building_quantum_node_desc: "Spezialisiertes Computernetzwerk nach dem Vorbild der Prozessoren der Unendlichkeitsmaschine"
+
+nhsc_building_watcher: "Beobachter der Ewigkeit"
+nhsc_building_watcher_desc: "Ein massiver Komplex, der die Realität selbst verbiegt und es uns ermöglicht, in die Vergangenheit, Gegenwart und Zukunft zu blicken."
+
+nhsc_building_reprocessing_plant: "Wiederaufbereitungsanlage"
+nhsc_building_reprocessing_plant_desc: "Diese fortschrittliche Recycling- und Wiederaufbereitungsanlage kann unglaubliche Mengen an nützlichen Ressourcen aus gewöhnlichem Müll gewinnen."
+job_esc_reprocessor_effect_desc: "£job_esc_reprocessor£ $job_esc_reprocessor_plural$ verbrauchen £minerals£ §Y$minerals$§! und £energy£ §Y$energy$§! aber produzieren £consumer_goods£ §Y$consumer_goods$§! und £alloys£ §Y$alloys$§!."
+job_esc_reprocessor_drone_effect_desc: "£job_esc_reprocessor_drone£ $job_esc_reprocessor_drone_plural$ verbrauchen £minerals£ §Y$minerals$§! und £food£ §Y$food$§! aber produzieren £alloys£ §Y$alloys$§!."
+job_esc_reprocessor_unit_effect_desc: "£job_esc_reprocessor_unit£ $job_esc_reprocessor_unit_plural$ verbrauchen £minerals£ §Y$minerals$§! und £energy£ §Y$energy$§! aber produzieren £alloys£ §Y$alloys$§!."
+
+nhsc_building_zro_distillery: "Zro-Destillerie"
+nhsc_building_zro_distillery_desc: "Diese fortschrittliche Verarbeitungsanlage siebt sich durch buchstäbliche Berge von Rohstoffen, um winzige Kristalle von äußerst wertvollem Zro-Staub zu gewinnen."
+job_esc_zro_distiller_effect_desc: "£job_esc_zro_distiller£ $job_esc_zro_distiller_plural$ produzieren £sr_zro£ $sr_zro$ aus Rohmaterialien."
+job_esc_zro_distiller_drone_effect_desc: "£job_esc_zro_distiller_drone£ $job_esc_zro_distiller_drone_plural$ produzieren £sr_zro£ $sr_zro$ aus Rohmaterialien."
+
+nhsc_building_dark_matter_facility: "Dunkle-Materie-Zeichenanlage"
+nhsc_building_dark_matter_facility_desc: "Ein riesiger Komplex gravitativer Pressen, die das Gefüge der Raumzeit verbiegen, um wertvolle Dunkle Materie zu erzeugen."
+job_esc_dark_matter_shaper_effect_desc: "£job_esc_dark_matter_shaper£ $job_esc_dark_matter_shaper_plural$ verbrauchen £energy£ §Y$energy$§! und £consumer_goods£ §Y$consumer_goods$§! aber produzieren £sr_dark_matter£ §Y$sr_dark_matter$§! und £physics_research£ §Y$physics_research$§!"
+job_esc_dark_matter_shaper_drone_effect_desc: "£job_esc_dark_matter_shaper_drone£ $job_esc_dark_matter_shaper_drone_plural$ verbrauchen £energy£ §Y$energy$§!, £minerals£ §Y$minerals$§! und £food£ §Y$food$§! aber produzieren £sr_dark_matter£ §Y$sr_dark_matter$§! und £physics_research£ §Y$physics_research$§!"
+job_esc_dark_matter_shaper_unit_effect_desc: "£job_esc_dark_matter_shaper_drone£ $job_esc_dark_matter_shaper_drone_plural$ verbrauchen £energy£ §Y$energy$§! und £minerals£ §Y$minerals$§! aber produzieren £sr_dark_matter£ §Y$sr_dark_matter$§! und £physics_research£ §Y$physics_research$§!"
+
+nhsc_building_magmaminer_1: "Mantel-Bergbauanlage"
+nhsc_building_magmaminer_1_desc: "Eine megastrukturelle Mine, die bis zum Kern des Planeten reicht. Sie erfordert eine ungeheure Anzahl von Arbeitern, um sie zu betreiben, und kann enorme Mengen an Ressourcen produzieren.\n\n§RWARNUNG: Der Bau dieses Gebäudes auf einer nicht geschmolzenen Welt wird die maximal verfügbaren Distrikte dauerhaft um 5 reduzieren.§!"
+nhsc_building_magmaminer_2: "Verbesserte Mantel-Bergbauanlage"
+nhsc_building_magmaminer_2_desc: "Eine noch größere und effizientere Mine, um wertvolle Ressourcen aus dem Planetenkern zu gewinnen."
+job_esc_planetary_core_miner_effect_desc: "£job_esc_planetary_core_miner£ $job_esc_planetary_core_miner_plural$ große Mengen an £minerals£ §Y$minerals$§! durch den Abbau des Planetenmantels und -kerns produzieren."
+job_esc_planetary_core_miner_drone_effect_desc: "£job_esc_planetary_core_miner_drone£ $job_esc_planetary_core_miner_drone_plural$ große Mengen an £minerals£ §Y$minerals$§! durch den Abbau des Planetenmantels und -kerns produzieren."
+job_esc_planetary_core_miner_unit_effect_desc: "£job_esc_planetary_core_miner_unit£ $job_esc_planetary_core_miner_unit_plural$ große Mengen an £minerals£ §Y$minerals$§! durch den Abbau des Planetenmantels und -kerns produzieren."
+
+### special resource production buildings
+
+nhsc_building_nanite_foundry: "Nanitengießerei"
+nhsc_building_nanite_foundry_desc: "Ein riesiger Gebäudekomplex, der auf die Aufzucht von Naniten spezialisiert ist."
+job_esc_nanite_breeder_effect_desc: "£job_esc_nanite_breeder£ $job_esc_nanite_breeder_plural$ verbrauchen £consumer_goods£ §Y$consumer_goods$§! und £alloys£ §Y$alloys$§! aber produzieren £nanites£ §Y$nanites$§!."
+job_esc_nanite_breeder_drone_effect_desc: "£job_esc_nanite_breeder_drone£ $job_esc_nanite_breeder_drone_plural$ verbrauchen £food£ §Y$food$§! und £alloys£ §Y$alloys$§! aber produzieren £nanites£ §Y$nanites$§!."
+job_esc_nanite_breeder_unit_effect_desc: "£job_esc_nanite_breeder_unit£ $job_esc_nanite_breeder_unit_plural$ verbrauchen £energy£ §Y$energy$§! und £alloys£ §Y$alloys$§! aber produzieren £nanites£ §Y$nanites$§!."
+
+building_esc_crystal_farm_1: "Kristallfarm"
+building_esc_crystal_farm_1_desc: "Riesige Flächen für den Anbau halborganischer kristalliner Materie."
+building_esc_crystal_farm_2: "Verbesserte Kristallfarm"
+building_esc_crystal_farm_2_desc: "Eine effizientere Farm für den Anbau halborganischer kristalliner Materie."
+job_esc_crystal_farmer_effect_desc: "£job_esc_crystal_farmer£ $job_esc_crystal_farmer_plural$ verbrauchen £consumer_goods£ §Y$consumer_goods$§! und £minerals£ §Y$minerals$§! aber produzieren £esc_living_crystal£ §Y$esc_living_crystal$§! and £alloys£ §Y$alloys$§!."
+job_esc_crystal_farmer_drone_effect_desc: "£job_esc_crystal_farmer_drone£ $job_esc_crystal_farmer_drone_plural$ verbrauchen £food£ §Y$food$§! und £minerals£ §Y$minerals$§! aber produzieren £esc_living_crystal£ §Y$esc_living_crystal$§! and £alloys£ §Y$alloys$§!."
+job_esc_crystal_farmer_unit_effect_desc: "£job_esc_crystal_farmer_unit£ $job_esc_crystal_farmer_unit_plural$ verbrauchen £energy£ §Y$energy$§! und £minerals£ §Y$minerals$§! aber produzieren £esc_living_crystal£ §Y$esc_living_crystal$§! and £alloys£ §Y$alloys$§!."
+
+nhsc_building_psionic_containment: "Psionische Eindämmung"
+nhsc_building_psionic_containment_desc: "Eine Reihe von Infrastrukturen zum Sammeln und Verdichten psionischer Energien, die von der Bevölkerung dieser Welt freigesetzt werden."
+job_esc_channeller_effect_desc: "£job_esc_channeller£ $job_esc_channeller_plural$ verbrauchen £energy£ §Y$energy$§! und £food£ §Y$food$§! aber produzieren £esc_psionic_charge£ §Y$esc_psionic_charge$§!."
+job_esc_channeller_drone_effect_desc: "£job_esc_channeller_drone£ $job_esc_channeller_drone_plural$ verbrauchen £energy£ §Y$energy$§! und £food£ §Y$food$§! aber produzieren £esc_psionic_charge£ §Y$esc_psionic_charge$§!."
+
+nhsc_building_graviton_condenser: "Gravitonenkondensator"
+nhsc_building_graviton_condenser_desc: "Spezialisierte Gebäude, die Gravitonen sammeln und kondensieren."
+job_esc_gravity_manipulator_effect_desc: "£job_esc_gravity_manipulator£ $job_esc_gravity_manipulator_plural$ verbrauchen £energy£ §Y$energy$§! und £consumer_goods£ §Y$consumer_goods$§! aber produzieren £esc_gravitic_anomaly£ §Y$esc_gravitic_anomaly$§!."
+job_esc_gravity_manipulator_drone_effect_desc: "£job_esc_gravity_manipulator_drone£ $job_esc_gravity_manipulator_drone_plural$ verbrauchen £energy£ §Y$energy$§! und £food£ §Y$food$§! aber produzieren £esc_gravitic_anomaly£ §Y$esc_gravitic_anomaly$§!."
+job_esc_gravity_manipulator_unit_effect_desc: "£job_esc_gravity_manipulator_unit£ $job_esc_gravity_manipulator_unit_plural$ verbrauchen £energy£ §Y$energy$§! aber produzieren £esc_gravitic_anomaly£ §Y$esc_gravitic_anomaly$§!."
+
+nhsc_building_dimensional_breach: "Dimensionssprengung"
+nhsc_building_dimensional_breach_desc: "Spezialisierte Einrichtungen mit massiven Feldgeneratoren, die in der Lage sind, das Gefüge der Realität selbst zu verzerren."
+job_esc_dimension_warper_effect_desc: "£job_esc_dimension_warper£ $job_esc_dimension_warper_plural$ verbrauchen £energy£ §Y$energy$§! und £consumer_goods£ §Y$consumer_goods$§! aber produzieren £esc_transdimensional_vortex£ §Y$esc_transdimensional_vortex$§!."
+job_esc_dimension_warper_drone_effect_desc: "£job_esc_dimension_warper_drone£ $job_esc_dimension_warper_drone_plural$ verbrauchen £energy£ §Y$energy$§! und £food£ §Y$food$§! aber produzieren £esc_transdimensional_vortex£ §Y$esc_transdimensional_vortex$§!."
+job_esc_dimension_warper_unit_effect_desc: "£job_esc_dimension_warper_unit£ $job_esc_dimension_warper_unit_plural$ verbrauchen £energy£ §Y$energy$§! aber produzieren £esc_transdimensional_vortex£ §Y$esc_transdimensional_vortex$§!."
+
+nhsc_building_enigmatic_coil: "Enigmatische Energie-Spule"
+nhsc_building_enigmatic_coil_desc: "Massive Generatoren, die Energien sammeln und verstärken, ähnlich denen, die von der rätselhaften Festung verwendet werden."
+job_esc_enigma_reader_effect_desc: "£job_esc_enigma_reader£ $job_esc_enigma_reader_plural$ verbrauchen £energy£ §Y$energy$§! und £consumer_goods£ §Y$consumer_goods$§! aber produzieren £esc_enigmatic_energy£ §Y$esc_enigmatic_energy$§!."
+job_esc_enigma_reader_drone_effect_desc: "£job_esc_enigma_reader_drone£ $job_esc_enigma_reader_drone_plural$ verbrauchen £energy£ §Y$energy$§! und £food£ §Y$food$§! aber produzieren £esc_enigmatic_energy£ §Y$esc_enigmatic_energy$§!."
+job_esc_enigma_reader_unit_effect_desc: "£job_esc_enigma_reader_unit£ $job_esc_enigma_reader_unit_plural$ verbrauchen £energy£ §Y$energy$§! aber produzieren £esc_enigmatic_energy£ §Y$esc_enigmatic_energy$§!."
+
+nhsc_building_dragon_hatchery: "Drachenbrutstätte"
+nhsc_building_dragon_hatchery_desc: "Eine spezialisierte Klonanlage, die ausschließlich zum Klonen des mächtigen Ätherdrachen errichtet wurde."
+nhsc_building_dragon_hatchery_queued: "Drachenbrutstätte in Warteschlange"
+
+### Fallen Empire Buildings
+
+nhsc_building_nanite_containment: "Naniten-Eindämmungsanlage"
+nhsc_building_nanite_containment_desc: "Eine große Anlage, die große Mengen an selbstreplizierenden Naniten enthält, die ursprünglich von einer längst verstorbenen, extrem fortschrittlichen Zivilisation geschaffen wurden."
+
+nhsc_building_psi_energy_spire: "Psionische Energiespitze"
+nhsc_building_psi_energy_spire_desc: "Diese massive Installation arbeitet mit immensen Energien der materiellen Welt sowie mit solchen, die aus dem Leichentuch stammen."
+
+nhsc_building_localized_gravity_fault: "Lokalisierte Schwerkraftverwerfung"
+nhsc_building_localized_gravity_fault_desc: "Vor langer Zeit riss ein in diesem Gebiet durchgeführtes Experiment ein Loch in das Raum-Zeit-Kontinuum. Die Verwerfung wurde seitdem eingedämmt und genutzt, um große Mengen an Ressourcen aus anderen Dimensionen abzusaugen."
+
+nhsc_building_crystalline_manufacture: "Kristalline Manufaktur"
+nhsc_building_crystalline_manufacture_desc: "Eine Manufaktur, die mit Hilfe längst vergessener Technologien gebaut wurde und lebende Kristalle assimiliert, um nahezu unbegrenzten Zugang zu seltenen und wertvollen Ressourcen zu erhalten."

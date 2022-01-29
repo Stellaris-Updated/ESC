@@ -1,0 +1,232 @@
+>>> 17.01.2020
+- ESC buildings now follow more consistent rules on being allowed for construction:
+    - Special resource production buildings require either buildings or weapons to be allowed.
+    - Other buildings require buildings to be allowed.
+- Added minor partial overwrite to economic_categories to enable certain megastructure modifiers. Should not cause any compatibility issues.
+- Added test event that gives player's country all ESC technologies and their vanilla prerequisites. Type 'event esc_test.1' into console to execute it.
+
+>>> 21.01.2020
+- Fixed missing minor artifacts from the resource UI if Universal Resource Patch is not used.
+- Time-Space Continuum Manipulation technology no longer affects build costs. It now affects only construction speeds and decision enactment speed [new].
+- Fixed a couple of small errors in localization strings.
+- Added proper Polish translation by GhostOfForests (armor, buildings and job descriptions).
+
+>>> 02.02.2020
+- Fixed tier 6 thrusters having incorrect speed modifier for NSC ships.
+- Getting either of the three vanilla dark matter technologies will now give an option for the remaning two (added dark matter thrusters to the list).
+- ESC control menu is now restricted to single-player mode. Sorry - giving everyone free access to in multiplayer is just asking for abuse.
+- Time-Dilation Chambers now grants leaders +25% experience gain (up from +10%) and gives ships +100 starting experience.
+
+>>> 08.02.2020
+- ESC control menu is now available in multiplayer for the first 15 years of the game.
+
+>>> 29.02.2020
+- Added Matter Annihilator weapon, as well as its x-slot and titanic variants.
+- Added Reality Eraser weapon, as well as its x-slot and titanic variants.
+- Updated Dark Matter Reactor tech branch by inserting an intermediate tier (7th).
+- Updated Dark Matter Shields tech branch by inserting an intermediate tier (7th).
+- Gravity Manipulation Engine now can also be researched from Dark Matter thrusters.
+- Hopefully fixed that annoying wrong event scope error.
+- Added (untested) repeated Unbidden invasions feature. This feature is OFF by default.
+
+>>> 06.03.2020
+- Added new NSC titan aura: Shield Destabilizer - reduce shields of enemies and cause them to lose shield strength if they do not have enough shield regeneration.
+- Added new titan aura: Mirage System - reduce enemy tracking and accuracy.
+- Added new titan aura: Nanite Infiltration Swarm - reduce armor and hull of enemies and cause them to lose armor if they do not have enough armor regeneration.
+- Added new titan aura: Space Distortion Module - reduce enemy evasion, movement speed and fire rate.
+- Update icons for Super-Graviton Cannon.
+- Update Void Ray technology icon.
+- Update test event with new technologies.
+- Fix Awakened Fallen Empires being allowed to build leviathan-reward buildings if they haven't fulfilled the conditions like any normal empire has to.
+
+>>> 20.03.2020
+- Update target game version to 2.6.*
+- Add advanced reactors for Juggernaut.
+- Add advanced thrusters for Juggernaut.
+- Update strikecrafts.
+- Add economic plans so that AI can build towards ESC resources.
+- Fix missing thrusters for private colony ship, add advanced thrusters for lithoid colonizer.
+- Fix missing reactors for private colony ship, add advanced thrusters for lithoid colonizer.
+- Human players now need to research a special project in order to get a tech option for the Automated Dreadnought Combat Computers.
+- Add carrier Automated Dreadnought Combat Computer for cruisers, battleships and titans.
+- Add Automated Dreadnought Combat Computers for Juggernaut (artillery and carrier behavior).
+- Add Juggernaut-specific X-slot weapons.
+- Add Juggernaut-specific M-slot weapons.
+- Switch Carrier computer over to vanilla Carrier behavior. Update icon for Carrier Automated Dreadnought Combat Computer.
+- Update icons for Nanite Cannon.
+- Update icons for several T-slot weapon technologies.
+- Fix Reality Eraser being called Matter Annihilator.
+- Fix advanced Energy Launchers being tagged as anti_shield when they are in fact anti_armor.
+
+>>> 21.03.2020
+- Fixed Juggernaut weapons being unavailable to those who have Federations but NOT Apocalypse DLC.
+
+>>> 23.03.2020
+- Fix an oversight that allowed tier 6 armor to be researchable before tier 5 armor.
+
+>>> 28.03.2020
+- ESC rare technologies now have increased drop weight if player has "Technological Ascendancy" ascension perk.
+- Siegebreaker strikecrafts are now reverse-engineerable.
+- Mercenary strikecrafts are no longer reverse-engineerable to keep as unique to Megacorp empires.
+- Buffed starbase reactors.
+
+>>> 02.04.2020
+- Remove references to no-longer-existing NSC ship class 'supportship'.
+- Psionic Avatar Summoning 'edict' now has a fixed cost 2500 energy and 250 psionic charges.
+- Updated test event with Juggernaut weapons' techs.
+- Balance changes to some of the weapons based on their weighted average damage (thus, accounting for damage and defense penetration modifiers).
+
+>>> 06.04.2020
+- Add support for Realistic Ships Lithoid dreadnought.
+- Add support for Stellar Bastion from "!Expanded Starbases"
+- Add support for "A Deadly Tempest" nanite ships.
+- Change repair drones aux component to provide percentage-based regeneration of hull and armor.
+
+>>> 15.04.2020
+- Add support for "Forgotten Queens" mod, giving hiveminds ability to research psionic weapons under some conditions without relying on reverse-engineering.
+- Changed Watcher of Eternity:
+    - Remove +1 research alternative since there is no real need for it this late into the game.
+    - Change +20% science from researchers into +20% science from ALL sources on the planet.
+- Give Cerebral Node and Network Regulator custom unity-generating jobs to stop these buildings from providing unintentional administrative capacity.
+
+>>> 03.05.2020
+- Change costs of most ESC techs. On average, it should now take twice as long to research all ESC techs available to your empire.
+- AI now has +50% research speed bonus starting with the midgame year and +100% research speed bonus starting with the endgame year.
+- Add menu option to toggle AI boost (default ON)
+- Remove rare resource cost and upkeep from Central Research Bureau, Culture Nexus, Advanced Materials Laboratory and Technology Institute for AI.
+- Fix AI weights for Central Research Bureau, Culture Nexus, Advanced Materials Laboratory and Technology Institute.
+- Change AI weights for Zro Distillery and Dark Matter Drawing Facility.
+- Add advanced jump drives.
+- Add FE-unique reverse-engineerable jump drive.
+- Add intermediate tier of psionic shields.
+- Add reactors for new NSC Headquarters station.
+- Reinforced Crystalline Planting now requires tier 6 armor instead of tier 7 armor.
+- Add events to remove duplicates of empire-unique buildings acquired through conquest or vassal integration.
+- Add menu option to toggle ESC Unbidden (default ON if crises enabled)
+- Buff production of ESC special resources by FE buildings.
+- Make ESC Unbidden invasion a bit more likely to trigger on yearly die roll.
+- By popular demand, added localization of country flags used to limit queueing of empire-unique buildings.
+
+>>> 06.05.2020
+- Remake customization menu to allow for greater flexibility in mod configuration:
+    - Weapon groups can now be toggled on and off separately. Buildings with jobs for special resource production are now toggled on and off along with their weapons group.
+    - Give advanced jump-drives their own option, decoupling them from thrusters.
+    - Rewards for each leviathan can now be toggled on and off separately.
+    - Every no-special-resource non-leviathan-reward building can now be toggled on and off separately.
+- Fixed range multiplier of the improved psionic jump-drive.
+
+>>> 12.05.2020
+- Change target game version to 2.7.*
+- Re-do resource icons for Living Crystals.
+- Update icons for other ESC resources.
+- Tier 1 Living Crystal Farm no longer costs rare crystals.
+- Mod menu can now be opened via planetary decision on the capital world.
+- Placed a locker to hopefully prevent multiple instances of mod menu being opened simultaneously.
+
+>>> 17.05.2020
+- Update AI economic plans to 2.7 standard.
+- Remove forced turret entities.
+- Add support for federations rare tech weight bonuses.
+- Buff precursor jump drive.
+- Add new aux component: Precursor Armaments Enhancer. Buffs fire rate and damage of all weapons. Can be obtained only from FE while playing with ESC Overwrites.
+- Network Regulator is once again using vanilla jobs for unity generation.
+
+>>> 27.05.2020
+- Psionic avatars can now be recruited at the empire capital. Edict for psionic avatar summoning has been removed.
+- Add new armies: Erasure Squad (biological) / Eradicator Droid Army (mechanical). Rather fragile, but can dish out a lot of damage. Required chrono-spatial weapons.
+- Updated most custom projectiles, significantly reducing the number of particles used without noticeable quality losses.
+
+>>> 06.06.2020
+- Add passive generation of ESC special resources to AI, should they be able to make use of the said resources.
+- Fix Siegebreaker bombers not having tracking.
+- Gravitic anomaly edicts now require gravity manipulation technology rather than gravity weapons one.
+- Fix typo in Cerebral Node's description.
+
+>>> 24.06.2020
+- Add support for "At War: Starbase Improvements" defense platforms.
+- Mantle Mining Facility can now be built on Molten Habitable worlds (AlphaMod) and Molten Habitats (Planetary Diversity - Planetary Habitats).
+    - Mantle Mining Facility will not spawn borehole district blocker on Molten Habitable worlds and Molten Habitats.
+    - Mantle Mining Facility will not provide Borehole Maintainer jobs on Molten Habitable worlds and Molten Habitats.
+    - Mantle Mining Facility requires fully-upgraded capital (and 80 pops) on Molten Habitable worlds and Molten Habitats.
+- Apply updates to vanilla Extradimensional Weapons to their ESC updates.
+
+>>> 01.07.2020
+- Fixed an issue that made it impossible to research advanced crisis technologies if ESC:Overwrites mod is enabled.
+
+>>> 24.07.2020
+- Moved normal sensors to computing to match vanilla tech categorization.
+
+>>> 26.08.2020
+- Added "New Frontiers" volcanic worlds as a valid planet for Mantle Mining Facility.
+
+>>> 05.09.2020
+- Slightly buffed gravitic cannons' and torpedoes' damage.
+- Production of ESC strategic resources is now affected by colony designations:
+   - On terrestrial planets with refinery designation, job upkeep is reduced by 10%.
+   - On habitats with refinery designation, job upkeep is reduced by 20%.
+- Planetary Core Miner jobs are now affected by colony designation:
+   - On planets with mining colony designation, job production is increased by 20%.
+   - Borehole Maintainer jobs are NOT affected since it exists only on ecumenopoli, which can't be mining colonies.
+- Reprocessing Plant jobs are now affected by colony designation:
+   - On colonies with foundry designation, job upkeep is reduced by 20%. Non-gestalts also get the same effect if the planet has factory designation.
+- Members of the Galactic Community where 'Environmental Ordinance Waivers' or 'Project Cornucopia' resolutions have been passed also gain additional 5% production for ESC strategic resources.
+- Fixed trait weighting for Planetary Core Miner jobs for mechanical empires.
+- Fixed localization of Mantle Mining Facility building.
+
+>>> 19.09.2020
+- Erasure Squad armies should now be buildable by fully-synthetic ascended empires.
+
+>>> 27.09.2020
+- Move components and associated technologies from Overwrites submod here.
+    - You will still need Overwrites submod for them to appear in the game.
+    - This should, hopefully, fix an issue with components appearing as available when they shouldn't be if System Scale patch is used without Overwrites submod.
+- Create custom icons for FE computers.
+- Create custom icons for Contingency and Gray Goo computers.
+
+>>> 11.10.2020
+- Fixed a bug where robotic pops working in the Mantle Mining facility would require food as upkeep. Even in lithoid empires.
+
+>>> 18.10.2020
+- Fixed a bug where robotic pops working as channellers require food as upkeep.
+- Add 'Nanite Thought Matrix' combat computers:
+    - Human players need to research one of the two special projects to gain the research option:
+        - 'Nanite Thought Matrix Reverse Engineering', which is given upon defeating a gray goo fleet.
+        - 'Nanite Thought Matrix Development', which is given once the player has both 'Synthetic Lifeform Studies' and 'Sapient Combat Simulations' / 'Autonomous Ship Intellects' techs.
+        - It is also possible to reject a special project for some influence. If you do so, no new special projects for Nanite Thought Matrix will be given.
+    - AI will bypass special projects and get research option directly.
+- Gray Goo computers now have different icons for different behaviors.
+- Some housekeeping for mod files.
+
+>>> 18.10.2020
+- Bugfix
+
+>>> 22.10.2020
+- Remove duplicate reactor option for EAC heavy defense platform.
+- NSC Headquarters gets its own group of combat computers with behavior identical to that used by NSC's own computers for this starbase/ship.
+- Adjust Dreadnought and Nanite computers availability.
+- Some more housekeeping for mod files.
+
+>>> 29.10.2020
+- Update target Stellaris version to 2.8.*
+- Restrict psionic sensors to playable empires and spiritualist FE.
+- Add FE-unique platform combat computers.
+- Add assets for FE-unique starbase combat computers for citadel+ level starbases.
+    - Since it's impossible to give starbases a static design, this mod adds hidden and unusable versions of computers.
+    - Overwrites submod will overwrite that file and made upgraded combat computers usable by Fallen Empires.
+- Fix an error in triggered job upkeep for Mantle Mining Facility.
+- More mod file housekeeping.
+
+>>> 04.11.2020
+- Advanced Dark Matter reactors now have reduced alloy costs compared to 'normal' reactors of the same tier, have no upkeep cost and reduce overall upkeep of ships.
+- Automated Dreadnought computers have been redone. Older versions have been soft-deprecated and will be removed sometime early in 2021.
+- Update Culture Nexus/Cerebral Node/Network Regulator to give correct unity jobs for new civics.
+- Add Precursor Sensor Array sensor that can be obtained by reverse-engineering FE ship/station debris.
+- Fix NSC Headquarters' advanced Dark Matter reactors not actually costing Dark Matter.
+
+>>> 08.11.2020
+- Fixed new Automated Dreadnought computers incorrectly requiring tech for Nanite Thought Matrix.
+- Fixed new Automated Dreadnought computers using wrong strategic resource for their cost.
+
+>>> 12.12.2020
+- Restrict ESC afterburners to military ships and NSC exploration cruiser. Sorry, juggernaut.
+- Add Lava World subclass from New Frontiers to the list of planets that can host Mantle Mining Facility.

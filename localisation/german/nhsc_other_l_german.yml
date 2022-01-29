@@ -1,0 +1,538 @@
+﻿l_german:
+
+### GERMAN LOCALIZATION
+
+########################################
+###          Auxiliary Slots         ###
+########################################
+
+NHSC_REPAIR_DRONES: "Reparaturdrohnen"
+NHSC_REPAIR_DRONES_DESC: "Automatische Drohnen, die Notreparaturen am Rumpf durchführen."
+
+NHSC_ADV_SHIELD_RECHARGER: "Fortschrittlicher Schildkondensator"
+NHSC_ADV_SHIELD_RECHARGER_DESC: "Neue und verbesserte, leistungsfähigere Schildkondensatoren, die Schilde viel schneller regenerieren als die alten Modelle."
+
+NHSC_BLUE_CRYSTAL_CAPACITOR: "Kristallinfundierter Schildkondensator"
+NHSC_BLUE_CRYSTAL_CAPACITOR_DESC: "$nhsc_tech_crystal_infused_capacitor_desc$"
+
+NHSC_RED_CRYSTAL_CAPACITOR: "Kristallgeschmiedeter Schildkondensator"
+NHSC_RED_CRYSTAL_CAPACITOR_DESC: "$nhsc_tech_krystal_infused_capacitor_desc$"
+
+NHSC_STELLARITE_POWER_CORE: "Stellarite Energiekern"
+NHSC_STELLARITE_POWER_CORE_DESC: "Eine halborganische Einheit, die auf dem Herzen von Stellarite basiert und Lichtelemente in reine Energie umwandelt."
+
+NHSC_STANDARDIZED_WARHEADS: "Standardisierte Sprengköpfe"
+NHSC_STANDARDIZED_WARHEADS_DESC: "Die Standardisierung von Raketensprengköpfen ermöglicht es uns, das Risiko von kritischen Fehlern in den Magazinen zu verringern und gleichzeitig unsere Raketenwaffen zu verbessern."
+
+NHSC_PSI_REINFORCEMENT: "Psionische Verstärkung"
+NHSC_PSI_REINFORCEMENT_DESC: "Leitet psionische Energien der Besatzung um, um die strukturelle Integrität der Schiffshülle zu unterstützen und zu verstärken."
+
+NHSC_AFTERBURNER_3: "Gepulste Plasma-Nachbrenner"
+NHSC_AFTERBURNER_3_DESC: "Ein fortschrittlicher Satz von Nachbrennern mit verbesserter Leistung und Treibstoffeffizienz."
+
+NHSC_REACTOR_BOOSTER_4: "Hilfsnullpunktreaktor"
+NHSC_REACTOR_BOOSTER_4_DESC: "Ein sekundärer Reaktor zur Erzeugung zusätzlicher Energie für Schiffssysteme."
+
+NHSC_REACTOR_BOOSTER_5: "Hilfssingularitätsreaktor"
+NHSC_REACTOR_BOOSTER_5_DESC: "Eine verbesserte Version von $NHSC_REACTOR_BOOSTER_4$, die noch mehr Energie für unsere Schiffe liefert."
+
+NHSC_ADV_AUX_FIRE_CONTROL: "Fortschrittliche Schusskontrollsysteme"
+NHSC_ADV_AUX_FIRE_CONTROL_DESC: "Dieser Hilfscomputer liefert äußerst raffinierte Feuerlösungen für die Waffen des Schiffes"
+
+NHSC_STRUCTURAL_REINFORCEMENT: "Strukturelle Verstärkung"
+NHSC_STRUCTURAL_REINFORCEMENT_DESC: "Eine verstärkte Rumpfstruktur, die eine stärkere Basishülle auf Kosten einer geringeren Panzerung ermöglicht."
+
+NHSC_PRECURSOR_ARMS_ENHANCER: "Vorläufer-Waffenverbesserer"
+NHSC_PRECURSOR_ARMS_ENHANCER_DESC: "Ein spezialisierter Dunkle-Materie-Reaktor, der von alten Zivilisationen entwickelt wurde, um die Stärke ihrer Waffen zu verbessern."
+
+########################################
+###           Strikecrafts           ###
+########################################
+
+NHSC_FIGHTERS_HANGAR_4: "Taktischer Abfangjägerverband"
+NHSC_FIGHTERS_HANGAR_4_DESC: "Die nächste Generation von Abfangjägern, die unter allen Bedingungen optimal operieren."
+NHSC_BOMBERS_HANGAR_4: "Taktisches Bombergeschwader"
+NHSC_BOMBERS_HANGAR_4_DESC: "Die nächste Generation von Bomberflugzeugen, die unter allen Bedingungen optimal operieren."
+
+NHSC_FIGHTERS_HANGAR_5: "Siegebreaker-Abfangjäger-Geschwader"
+NHSC_FIGHTERS_HANGAR_5_DESC: "Das ultimative Abfangjäger-Geschwader."
+NHSC_BOMBERS_HANGAR_5: "Siegebreaker-Bombergeschwader"
+NHSC_BOMBERS_HANGAR_5_DESC: "Die ultimativen Bomberflugzeuge."
+
+NHSC_CYBER_AMOEBA: "Kybernetisch Verstärkte Amöbe"
+NHSC_CYBER_AMOEBA_DESC: "Indem wir kybernetische Implantate in speziell gezüchtete Amöben integrieren, können wir sie zu noch stärkeren und bösartigeren Kämpfern machen."
+
+NHSC_RAVAGING_SWARMERS: "Verwüstende Schwärmer"
+NHSC_RAVAGING_SWARMERS_DESC: "Diese Schwärmer wurden trainiert und unter Drogen gesetzt, damit sie zu den furchterregendsten organischen Kampfflugzeugen werden, die diese Galaxie je gesehen hat."
+
+NHSC_MERCENRY_HANGAR_1: "Söldnerstaffel"
+NHSC_MERCENRY_HANGAR_1_DESC: "Eine angeheuerte Bande von selbstsüchtigen Raumfahrern, die bereit ist, für ein paar Credits für unsere Sache zu kämpfen. Billig, effektiv, aber ohne die Disziplin und Ehre eines echten Soldaten."
+
+NHSC_MERCENRY_HANGAR_2: "Elite-Söldnerschwadron"
+NHSC_MERCENRY_HANGAR_2_DESC: "Diese erfahrenen Piloten sind teurer anzuheuern als reguläre Raumfahrtsöldner, verfügen aber sowohl über die Erfahrung als auch über die Fertigkeiten, um es mit traditionelleren Kampfflugzeuggeschwadern aufnehmen zu können."
+
+NHSC_SWARM_STRIKE_CRAFT_1: "Schwarm-Striker"
+NHSC_SWARM_STRIKE_CRAFT_1_DESC: "Geklonte, miniaturisierte Prethoryn-Exemplare können über Wellenlängen gesteuert werden, die denen ähneln, die wir für die flotteninterne Kommunikation verwenden, was es uns ermöglicht, sie als effektive Angriffsschiffe einzusetzen."
+
+NHSC_BIONIC_AMOEBA: "Bionische Amöbe"
+NHSC_BIONIC_AMOEBA_DESC: "Diese Amöben sind mit fortschrittlichen kybernetischen Implantaten ausgestattet, die auf rückentwickelten Percursor-Technologien basieren und die Kampffähigkeiten der Kreaturen erheblich verbessern."
+
+NHSC_FIGHTERS_HANGAR_6: "Voidstalker-Abfangjäger"
+NHSC_FIGHTERS_HANGAR_6_DESC: "Fortschrittliche Abfangjäger, die mit rückentwickelter Vorläufertechnologie ausgestattet sind."
+
+NHSC_BOMBERS_HANGAR_6: "Voidstalker-Bombergeschwader"
+NHSC_BOMBERS_HANGAR_6_DESC: "Fortschrittliche Bomber, ausgestattet mit zurückentwickelter Vorläufertechnologie."
+
+########################################
+###         Special Resources        ###
+########################################
+
+esc_psionic_charge: "Psionische Ladung"
+esc_psionic_charge_plural: "$esc_psionic_charge$s"
+esc_psionic_charge_desc: "Ein stabiler Wirbel psychischer Energien, der von den Geistern nach eigenem Ermessen genutzt werden kann."
+
+esc_gravitic_anomaly: "Gravitische Anomalie"
+esc_gravitic_anomaly_desc: "Eine eingeschlossene gravitische Anomalie, bereit für den Einsatz durch unser Militär."
+
+esc_living_crystal: "Lebendkristall"
+esc_living_crystal_desc: "Eine halborganische kristalline Matrix, die die Materie nachahmt, aus der die Körper der kristallinen Wesen bestehen."
+
+esc_transdimensional_vortex: "Transdimensionaler Wirbel"
+esc_transdimensional_vortex_desc: "Energien aus einer anderen Dimension, die uns zur Verfügung stehen. Hoffen wir, dass ihre Entfesselung nicht zu einem ...Zwischenfall führt."
+
+esc_enigmatic_energy: "Enigmatische Energie"
+esc_enigmatic_energy_desc: "Eine erfolgreiche Wiederherstellung der Energie, die von der mysteriösen enigmatischen Festung verwendet wird."
+
+########################################
+###               Jobs               ###
+########################################
+
+job_esc_crystal_farmer: "Kristallfarmer"
+job_esc_crystal_farmer_plural: "Kristallfarmer"
+mod_job_esc_crystal_farmer_add: "$job_esc_crystal_farmer$"
+job_esc_crystal_farmer_desc: "Diese Arbeiterpopulation beaufsichtigt Kristallfarmen, die lebende Kristalle sowie kleine Mengen von Legierungen produzieren."
+job_esc_crystal_farmer_drone: "Kristallfarmer-Drohne"
+job_esc_crystal_farmer_drone_plural: "Kristallfarmer-Drohnen"
+mod_job_esc_crystal_farmer_drone_add: "$job_esc_crystal_farmer_drone$"
+job_esc_crystal_farmer_drone_desc: "Diese einfachen Drohnen beaufsichtigen Kristallfarmen, die lebende Kristalle und kleine Mengen von Legierungen produzieren."
+job_esc_crystal_farmer_unit: "Kristallfarmer-Einheit"
+job_esc_crystal_farmer_unit_plural: "Kristallfarmer-Einheiten"
+mod_job_esc_crystal_farmer_unit_add: "$job_esc_crystal_farmer_unit$"
+job_esc_crystal_farmer_unit_desc: "$job_esc_crystal_farmer_drone_desc$"
+
+job_esc_channeller: "Kanalisierer"
+job_esc_channeller_plural: "Kanalisierer"
+mod_job_esc_channeller_add: "$job_esc_channeller$"
+job_esc_channeller_desc: "Diese spezialisierte Bevölkerung lenkt Ströme psionischer Energien durch die psionischen Behälter, um psionische Ladungen zu erzeugen."
+job_esc_channeller_drone: "Kanalisierer-Drohne"
+job_esc_channeller_drone_plural: "Kanalisierer-Drohnen"
+mod_job_esc_channeller_drone_add: "$job_esc_channeller_drone$"
+job_esc_channeller_drone_desc: "Diese komplexen Drohnen ziehen die vom Overmind erzeugten psionischen Energien ab und speichern sie als psionische Ladungen."
+
+job_esc_gravity_manipulator: "Schwerkraftmanipulator"
+job_esc_gravity_manipulator_plural: "Schwerkraftmanipulatoren"
+mod_job_esc_gravity_manipulator_add: "$job_esc_gravity_manipulator$"
+job_esc_gravity_manipulator_desc: "Diese spezialisierte Population verwaltet Gravitonkondensator-Installationen, um gravitische Anomalien zu erzeugen."
+job_esc_gravity_manipulator_drone: "Schwerkraftmanipulationsdrohne"
+job_esc_gravity_manipulator_drone_plural: "Schwerkraftmanipulationsdrohnen"
+mod_job_esc_gravity_manipulator_drone_add: "$job_esc_gravity_manipulator_drone$"
+job_esc_gravity_manipulator_drone_desc: "Diese komplexen Drohnen steuern Gravitonenkondensator-Installationen, um gravitative Anomalien zu erzeugen."
+job_esc_gravity_manipulator_unit: "Schwerkraftmanipulationseinheit"
+job_esc_gravity_manipulator_unit_plural: "Schwerkraftmanipulationseinheiten"
+mod_job_esc_gravity_manipulator_unit_add: "$job_esc_gravity_manipulator_unit$"
+job_esc_gravity_manipulator_unit_desc: "$job_esc_gravity_manipulator_drone_desc$"
+
+job_esc_dimension_warper: "Dimensionen-Warper"
+job_esc_dimension_warper_plural: "Dimensionen-Warper"
+mod_job_esc_dimension_warper_add: "$job_esc_dimension_warper$"
+job_esc_dimension_warper_desc: "Diese spezialisierte Bevölkerung überwacht die Arbeiten von dimensionalen Wirbeln, die transdimensionale Wirbel erzeugen."
+job_esc_dimension_warper_drone: "Dimensionen-Warperdrohne"
+job_esc_dimension_warper_drone_plural: "Dimensionen-Warperdrohnen"
+mod_job_esc_dimension_warper_drone_add: "$job_esc_dimension_warper_drone$"
+job_esc_dimension_warper_drone_desc: "Diese komplexen Drohnen beaufsichtigen die Arbeiten von dimensionalen Wirbeln, die transdimensionale Wirbel erzeugen."
+job_esc_dimension_warper_unit: "Dimensionen-Warpereinheit"
+job_esc_dimension_warper_unit_plural: "Dimensionen-Warpereinheiten"
+mod_job_esc_dimension_warper_unit_add: "$job_esc_dimension_warper_unit$"
+job_esc_dimension_warper_unit_desc: "$job_esc_dimension_warper_drone_desc$"
+
+job_esc_enigma_reader: "Enigma-Leser"
+job_esc_enigma_reader_plural: "Enigma-Leser"
+mod_job_esc_enigma_reader_add: "$job_esc_enigma_reader$"
+job_esc_enigma_reader_desc: "Diese spezialisierte Bevölkerung arbeitet mit den Enigmatischen Energiespulen, die enigmatische Energie erzeugen."
+job_esc_enigma_reader_drone: "Enigma-Leser-Drohne"
+job_esc_enigma_reader_drone_plural: "Enigma-Leser-Drohnen"
+mod_job_esc_enigma_reader_drone_add: "$job_esc_enigma_reader_drone$"
+job_esc_enigma_reader_drone_desc: "Diese komplexen Drohnen arbeiten mit den enigmatischen Energiespulen, die enigmatische Energie erzeugen."
+job_esc_enigma_reader_unit: "Enigma-Leser-Einheit"
+job_esc_enigma_reader_unit_plural: "Enigma-Leser-Einheiten"
+mod_job_esc_enigma_reader_unit_add: "$job_esc_enigma_reader_unit$"
+job_esc_enigma_reader_unit_desc: "$job_esc_enigma_reader_drone_desc$"
+
+job_esc_nanite_breeder: "Nanitenzüchter"
+job_esc_nanite_breeder_plural: "Nanitenzüchter"
+mod_job_esc_nanite_breeder_add: "$job_esc_nanite_breeder$"
+job_esc_nanite_breeder_desc: "Diese spezialisierte Bevölkerung arbeitet in der Nanitengießerei, die Naniten produziert."
+job_esc_nanite_breeder_drone: "Naniten-Zuchtdrohne"
+job_esc_nanite_breeder_drone_plural: "Naniten-Zuchtdrohnen"
+mod_job_esc_nanite_breeder_drone_add: "$job_esc_nanite_breeder_drone$"
+job_esc_nanite_breeder_drone_desc: "Diese komplexen Drohnen arbeiten mit den Nanitengießereien, die Nanites produzieren."
+job_esc_nanite_breeder_unit: "Naniten-Erzeugungseinheit"
+job_esc_nanite_breeder_unit_plural: "Naniten-Erzeugungseinheiten"
+mod_job_esc_nanite_breeder_unit_add: "$job_esc_nanite_breeder_unit$"
+job_esc_nanite_breeder_unit_desc: "$job_esc_nanite_breeder_drone_desc$"
+
+job_esc_reprocessor: "Aufarbeitungsanlagen Operateur"
+job_esc_reprocessor_plural: "Aufarbeitungsanlagen Operateure"
+mod_job_esc_reprocessor_add: "$job_esc_reprocessor$"
+job_esc_reprocessor_desc: "Diese Spezialisten sind in der Wiederaufbereitungsanlage tätig, wo sie nützliche Materialien aus sonstigem Abfall heraussuchen."
+mod_job_esc_reprocessor_per_pop: "§G+1§! $job_esc_reprocessor$ jobs per §Y$VALUE$§! pops"
+mod_job_esc_reprocessor_per_pop_short: "\n§G+1§! £job_esc_reprocessor£ per §Y$VALUE$§! £pop£"
+job_esc_reprocessor_drone: "Aufarbeitungsanlagen Drohne"
+job_esc_reprocessor_drone_plural: "Aufarbeitungsanlagen Drohnen"
+mod_job_esc_reprocessor_drone_add: "$job_esc_reprocessor_drone$"
+job_esc_reprocessor_drone_desc: "Diese komplexen Drohnen bemannen die Wiederaufbereitungsanlage, indem sie nützliche Materialien aus sonstigem Abfall heraussuchen."
+mod_job_esc_reprocessor_drone_per_pop: "§G+1§! $job_esc_reprocessor_drone$ jobs per §Y$VALUE$§! pops"
+mod_job_esc_reprocessor_drone_per_pop_short: "\n§G+1§! £job_esc_reprocessor_drone£ per §Y$VALUE$§! £pop£"
+job_esc_reprocessor_unit: "Aufarbeitungsanlagen Einheit"
+job_esc_reprocessor_unit_plural: "Aufarbeitungsanlagen Einheiten"
+mod_job_esc_reprocessor_unit_add: "$job_esc_reprocessor_unit$"
+job_esc_reprocessor_unit_desc: "$job_esc_reprocessor_drone_desc$"
+mod_job_esc_reprocessor_unit_per_pop: "§G+1§! $job_esc_reprocessor_unit$ jobs per §Y$VALUE$§! pops"
+mod_job_esc_reprocessor_unit_per_pop_short: "\n§G+1§! £job_esc_reprocessor_unit£ per §Y$VALUE$§! £pop£"
+
+job_esc_zro_distiller: "Zro Destillateur"
+job_esc_zro_distiller_plural: "Zro Destillateure"
+mod_job_esc_zro_distiller_add: "$job_esc_zro_distiller$"
+job_esc_zro_distiller_desc: "Betreiber der Zro-Destillerie, die den Prozess der Extraktion winziger Mengen von Zro-Staub aus den Rohstoffen steuern."
+job_esc_zro_distiller_drone: "Zro Destillateur-Drohne"
+job_esc_zro_distiller_drone_plural: "Zro Destillateur-Drohnen"
+mod_job_esc_zro_distiller_drone_add: "$job_esc_zro_distiller_drone$"
+job_esc_zro_distiller_drone_desc: "$job_esc_zro_distiller_desc$"
+
+job_esc_dark_matter_shaper: "Dunkle Materieformer"
+job_esc_dark_matter_shaper_plural: "Dunkle Materieformer"
+mod_job_esc_dark_matter_shaper_add: "$job_esc_dark_matter_shaper$"
+job_esc_dark_matter_shaper_desc: "Diese Spezialisten betreiben die Anlage zur Gewinnung dunkler Materie und versorgen unser Imperium mit dieser kostbaren Ressource."
+job_esc_dark_matter_shaper_drone: "Dunkle Materieformerdrohne"
+job_esc_dark_matter_shaper_drone_plural: "Dunkle Materieformerdrohnen"
+mod_job_esc_dark_matter_shaper_drone_add: "$job_esc_dark_matter_shaper_drone$"
+job_esc_dark_matter_shaper_drone_desc: "Diese komplexen Drohnen betreiben die Anlage zur Gewinnung dunkler Materie und versorgen das Imperium mit dieser kostbaren Ressource."
+job_esc_dark_matter_shaper_unit: "Dunkle Materieformereinheit"
+job_esc_dark_matter_shaper_unit_plural: "Dunkle Materieformereinheiten"
+mod_job_esc_dark_matter_shaper_unit_add: "$job_esc_dark_matter_shaper_unit$"
+job_esc_dark_matter_shaper_unit_desc: "$job_esc_dark_matter_shaper_drone_desc$"
+
+job_esc_planetary_core_miner: "Planetenkern-Bohrer"
+job_esc_planetary_core_miner_plural: "Planetenkern-Bohrer"
+mod_job_esc_planetary_core_miner_add: "$job_esc_planetary_core_miner$"
+job_esc_planetary_core_miner_desc: "Bergleute, die wertvolle Ressourcen aus dem Planetenmantel und -kern gewinnen."
+job_esc_planetary_core_miner_drone: "Planetenkern-Bohrerdrohne"
+job_esc_planetary_core_miner_drone_plural: "Planetenkern-Bohrerdrohnen"
+mod_job_esc_planetary_core_miner_drone_add: "$job_esc_planetary_core_miner_drone$"
+job_esc_planetary_core_miner_drone_desc: "Bergbaudrohnen, die wertvolle Ressourcen aus dem Planetenmantel und -kern gewinnen."
+job_esc_planetary_core_miner_unit: "Planetenkern-Bohrereinheit"
+job_esc_planetary_core_miner_unit_plural: "Planetenkern-Bohrereinheiten"
+mod_job_esc_planetary_core_miner_unit_add: "$job_esc_planetary_core_miner_unit$"
+job_esc_planetary_core_miner_unit_desc: "$job_esc_planetary_core_miner_drone_desc$"
+
+job_esc_borehole_maintainer: "Bohrloch-Wartungspersonal"
+job_esc_borehole_maintainer_plural: "Bohrloch-Wartungspersonal"
+mod_job_esc_borehole_maintainer_add: "$job_esc_borehole_maintainer$"
+job_esc_borehole_maintainer_desc: "Spezialisten, die dafür sorgen, dass das Bohrloch der Mantel-Bergbauanlage in einwandfreiem Zustand ist. Sie sammeln auch zusätzliche Ressourcen, die aus dem Kern des Planeten an die Oberfläche gebracht werden."
+job_esc_borehole_maintainer_drone: "Bohrloch-Wartungsdrohne"
+job_esc_borehole_maintainer_drone_plural: "Bohrloch-Wartungsdrohnen"
+mod_job_esc_borehole_maintainer_drone_add: "$job_esc_borehole_maintainer_drone$"
+job_esc_borehole_maintainer_drone_desc: "Komplexe Drohnen, die sicherstellen, dass das Bohrloch der Mantel-Bergbauanlage in einwandfreiem Zustand ist. Außerdem holen sie zusätzliche Ressourcen aus dem Kern des Planeten an die Oberfläche."
+job_esc_borehole_maintainer_unit: "Bohrloch-Wartungseinheit"
+job_esc_borehole_maintainer_unit_plural: "Bohrloch-Wartungseinheiten"
+mod_job_esc_borehole_maintainer_unit_add: "$job_esc_borehole_maintainer_unit$"
+job_esc_borehole_maintainer_unit_desc: "$job_esc_borehole_maintainer_drone_desc$"
+
+job_esc_mind_walker: "Gedankenwandererdrohne"
+job_esc_mind_walker_plural: "Gedankenwandererdrohnen"
+mod_job_esc_mind_walker_add: "$job_esc_mind_walker$"
+job_esc_mind_walker_desc: "Diese Drohnen dienen dazu, ihre verlorenen Brüder zurück zum Großen Geist zu führen, der sie alle eint."
+
+job_esc_network_curator: "Netzwerk-Kurator-Einheit"
+job_esc_network_curator_plural: "Netzwerk-Kurator-Einheiten"
+mod_job_esc_network_curator_add: "$job_esc_network_curator$"
+job_esc_network_curator_desc: "Diese komplexen Drohnen verwalten unermüdlich riesige Datenmengen, die durch das Netzwerk zirkulieren, und stellen sicher, dass jede Einheit des Kollektivs auf das gemeinsame Ziel der Maschinenintelligenz hinarbeitet.
+
+########################################
+###    Deposits and Tile Blockers    ###
+########################################
+
+d_nhsc_large_borehole_1: "Abgrundbohrloch"
+d_nhsc_large_borehole_1_desc: "Ein extrem großes Bohrloch, das geschaffen wurde, um Ressourcen aus dem Mantel und Kern des Planeten zu gewinnen."
+d_nhsc_large_borehole_2: "$d_nhsc_large_borehole_1$ Expansion"
+d_nhsc_large_borehole_2_desc: "$d_nhsc_large_borehole_1_desc$"
+
+########################################
+###              Edicts              ###
+########################################
+
+edict_nhsc_mega_construction: "Mega-Bauprojekte"
+edict_nhsc_mega_construction_desc: "Indem wir Arbeitskräfte dorthin lenken, wo sie am meisten gebraucht werden, können wir unglaubliche Ergebnisse erzielen... zu einem gewissen Preis."
+
+edict_nhsc_millennium_project: "Millenniumsprojekte"
+edict_nhsc_millennium_project_desc: "Megastrukturen sind das größte Zeugnis unseres technischen Könnens. Ihrem Bau sollte nichts im Wege stehen."
+
+edict_nhsc_mod_control_edict: "ESC 3.0 Bedienfeld"
+edict_nhsc_mod_control_edict_desc: "ESC 3.0 Optionsmenü öffnen"
+edict_nhsc_mod_control_edict2: "$edict_nhsc_mod_control_edict$"
+edict_nhsc_mod_control_edict2_desc: "$edict_nhsc_mod_control_edict_desc$"
+
+edict_nhsc_edict_living_crystal_trading: "Lebendkristall-Handel"
+edict_nhsc_edict_living_crystal_trading_desc: "Indem wir große Mengen an Lebendkristallen in Edelsteinqualität auf den zivilen Markt bringen, können wir die Produktion von Luxusgütern im ganzen Reich anregen."
+
+edict_nhsc_edict_living_crystals_extractors: "Lebendkristall-Extraktoren"
+edict_nhsc_edict_living_crystals_extractors_desc: "Durch die Einbeziehung von Lebendkristallen in die Extraktionsmuster kann die Rate, mit der seltene Kristalle abgebaut werden können, erheblich gesteigert werden."
+
+edict_nhsc_edict_psychic_unification: "Psychische Vereinheitlichung"
+edict_nhsc_edict_psychic_unification_desc: "Indem wir große Mengen gespeicherter psionischer Energien aufwenden, können wir unser Volk für unsere Regierung und unsere Politik empfänglicher machen."
+
+edict_nhsc_edict_psionic_avatar: "Psionische Avatar-Beschwörung"
+edict_nhsc_edict_psionic_avatar_desc: "Mit genügend psionischer Energie können wir mächtige Wesen aus dem Leichentuch beschwören und an unseren Willen binden."
+
+edict_nhsc_edict_improved_gravity_manipulation: "Verbesserte Schwerkraftmanipulation"
+edict_nhsc_edict_improved_gravity_manipulation_desc: "Durch die kontrollierte Anwendung von Gravitationsanomalien können wir die Bauzeit unserer Projekte verkürzen."
+
+edict_nhsc_edict_gravitic_foundries: "Gravitische Gießereien"
+edict_nhsc_edict_gravitic_foundries_desc: "Durch den Einsatz von gravitischen Pressen zur Verdichtung von Materie können wir Legierungen effizienter herstellen."
+
+edict_nhsc_edict_improved_nano_assemblers: "Verbesserte Nano-Montage"
+edict_nhsc_edict_improved_nano_assemblers_desc: "Die Verwendung von spezialisierten Naniten für die Produktion von Alltagsgegenständen wird es uns ermöglichen, die ständig steigende Nachfrage unserer Bevölkerung viel einfacher zu befriedigen."
+
+edict_nhsc_edict_maintenance_nanites: "Wartungs-Naniten"
+edict_nhsc_edict_maintenance_nanites_desc: "Die Verwendung von spezialisierten Naniten wird es viel einfacher machen, die Drohnen unseres Imperiums in gutem Zustand zu halten."
+
+edict_nhsc_edict_enigmatic_energy_boost: "Enigmatische Energieverstärkung"
+edict_nhsc_edict_enigmatic_energy_boost_desc: "Indem wir überschüssige Enigmatische Energie in unsere Stromnetze freisetzen, können wir die Energieerzeugung unseres Imperiums verbessern und unsere Schiffe autarker machen."
+
+edict_nhsc_edict_transdimensional_research: "Transdimensionale Forschung"
+edict_nhsc_edict_transdimensional_research_desc: "Indem wir unseren Forschungsabteilungen Zugang zu den transdimensionalen Wirbeln verschaffen, können wir ihre Effizienz erheblich steigern."
+
+########################################
+###          Starbase stuff          ###
+########################################
+
+sm_nhsc_starbase_reactor: "Sternfestungs-Reaktor"
+sm_nhsc_starbase_reactor_desc: "Ein massiver Nullpunktreaktor, der in der Lage ist, gigantische Rauminstallationen zu unterstützen."
+
+########################################
+###            Event stuff           ###
+########################################
+
+nhsc_buildings.111.name: "Mineralienreichtum"
+nhsc_buildings.111.desc: "Bergleute auf §Y[Root.GetName]§! berichten, dass ein außergewöhnlich wertvolles Mineralienpaket aus dem Mantel des Planeten gewonnen wurde."
+
+nhsc_buildings.112.name: "Geschmolzene Legierungen"
+nhsc_buildings.112.desc: "Bergleute auf §Y[Root.GetName]§! berichten, dass kürzlich neben den üblichen Mineralien auch eine große Menge geschmolzener Legierungen aus dem Planetenkern gewonnen wurde."
+
+nhsc_buildings.113.name: "Kristallines Geschenk"
+nhsc_buildings.113.desc: "Bergleute auf §Y[Root.GetName]§! berichten, dass mehrere große Cluster wertvoller seltener Kristalle aus dem Mantel des Planeten gewonnen wurden."
+
+nhsc_buildings.114.name: "Geschmolzene Teilchen"
+nhsc_buildings.114.desc: "Bergleute auf §Y[Root.GetName]§! berichten, dass sie bei ihren Arbeiten eine große Menge an flüchtigen Teilchen gewonnen haben, die in geschmolzenem Gestein des Planetenmantels aufgelöst wurden."
+
+nhsc_buildings.115.name: "Exotische Gase Tasche"
+nhsc_buildings.115.desc: "Bergleute auf §Y[Root.GetName]§! berichten, dass eine Tasche mit exotischen Gasen im Mantel des Planeten gefunden wurde. Der Abbau war erfolgreich und lieferte große Mengen an wertvollen Ressourcen."
+
+nhsc.22.name: "Automatisierter Dreadnought-Beobachtung: Vorschlag"
+nhsc.22.desc: "Der automatisierte Dreadnought ist ein faszinierendes Stück Technologie, und obwohl es nicht so aussieht, als ob wir seine Konstruktion aus der Nähe studieren könnten, können wir dennoch viel lernen, wenn wir seine Bewegungen beobachten, während er ewig im System patrouilliert. Wenn wir die Logik hinter seinen Kampfcomputern nachbilden können, lässt sie sich vielleicht auf unsere eigenen Schiffe übertragen."
+nhsc.22.a: "Wir werden lernen, was wir können"
+nhsc.22.b: "Wir brauchen nicht von diesem Schrotthaufen zu kopieren!"
+
+nhsc.23.name: "Automatisierter Dreadnought-Beobachtung: Bericht"
+nhsc.23.desc: "Mit den Daten, die unser Beobachtungsteam über den automatisierten Dreadnought und sein Kampfverhalten gesammelt hat, ist unsere wissenschaftliche Abteilung zuversichtlich, dass sie in der Lage sein wird, zumindest einen Teil der offensichtlichen Logik hinter seinen Kampfcomputern zu replizieren, natürlich angepasst an unsere eigenen Schiffsdesigns."
+
+NHSC_DREADNOUGHT_OBSERVATION: "Automatisierter Dreadnought-Beobachtung"
+NHSC_DREADNOUGHT_OBSERVATION_DESC: "Es sieht zwar nicht so aus, als ob die Kampfsysteme der alten automatisierten Dreadnought irgendeine Form von echter Intelligenz besitzen, aber sie sind dennoch extrem fortschrittlich, und wenn wir ihre Logik für unsere eigenen Schiffe replizieren können, wird dies die Stärke unserer Flotten erheblich steigern."
+
+nhsc.42.name: "Entwicklung der Naniten-Gedankenmatrix"
+nhsc.42.desc: "Mit unseren Fortschritten in den Bereichen Nanotechnologie und künstliche Intelligenz haben einige Wissenschaftler begonnen, über die Schaffung einer neuen Generation von künstlicher Intelligenz nachzudenken, die auf einem Naniten-Substrat läuft und in der Lage ist, organische Gehirne in einem noch nie dagewesenen Maße zu imitieren. Unsere Marine ist daran interessiert, eine solche KI für das Flottenkommando einzusetzen und ist bereit, die Forschung zu unterstützen."
+nhsc.42.a: "Geben Sie den Forschern grünes Licht"
+nhsc.42.b: "Wir haben keinen Bedarf an dieser Technologie!"
+
+NHSC_NANITE_THOUGHT_MATRIX_DEVELOP: "Entwicklung der Naniten-Gedankenmatrix"
+NHSC_NANITE_THOUGHT_MATRIX_DEVELOP_DESC: "Einigen neueren Veröffentlichungen zufolge kann eine KI, die auf einem Naniten-Substrat läuft, dazu gebracht werden, organische Denkprozesse perfekt zu replizieren, allerdings mit der unglaublichen Geschwindigkeit und Präzision einer Maschine. Eine solche KI würde, sollte sie entwickelt werden, viele Bereiche revolutionieren und der Admiralitätsrat hat großes Interesse an der Einführung einer solchen KI für die Zwecke der Weltraumkriegsführung gezeigt. Sie sagen, dass eine solche KI auf unseren Schiffen ihnen einen großen Vorteil gegenüber unseren Feinden verschaffen würde, die immer noch eine einfache und veraltete KI verwenden."
+
+nhsc.44.name: "Intaktes Sturm-Schiff geborgen"
+nhsc.44.desc: "Nach einer kürzlich stattgefundenen Schlacht konnten wir ein weitgehend intaktes Schiff einer extragalaktischen Bedrohung namens \"Der Sturm\" bergen. Der vorläufige Bericht unserer Wissenschaftler deutet darauf hin, dass das Schiff von einer KI gesteuert wurde, die auf einem Nanitensubstrat lief, das einen organischen Geist einer längst ausgestorbenen Spezies nachahmte. Demselben Bericht zufolge könnten wir in der Lage sein, die Technologie hinter dieser fortschrittlichen KI zu replizieren und sie zur Verbesserung der Kampffähigkeiten unserer eigenen Schiffe einzusetzen."
+nhsc.44.a: "Geben Sie den Forschern grünes Licht"
+nhsc.44.b: "Wir haben keinen Bedarf an dieser Technologie!"
+
+NHSC_NANITE_THOUGHT_MATRIX_RENGINEER: "Naniten-Gedankenmatrix Reverse Engineering"
+NHSC_NANITE_THOUGHT_MATRIX_RENGINEER_DESC: "Nachdem wir ein größtenteils intaktes Sturm-Schiff geborgen haben, haben unsere Wissenschaftler herausgefunden, dass es von einer fortschrittlichen Form der KI gesteuert wird, die auf einem Naniten-Substrat läuft, das einen organischen Verstand imitiert. Nachdem wir die Macht dieser Schiffe erlebt haben, ist es nur natürlich, dass wir sie für unsere eigenen Flotten kopieren wollen."
+
+nhsc.45.name: "Naniten-Gedankenmatrix"
+nhsc.45.desc: "Unsere Forscher haben erfolgreich die notwendigen Technologien entwickelt, um eine auf Naniten basierende KI zu schaffen, die den organischen Verstand perfekt imitieren kann. Wir sind nur noch einen Schritt vom Anbruch einer neuen Ära entfernt.
+
+nhsc.211.title: " Ätherdrache fliegt!"
+nhsc.211.desc: "Unsere Bemühungen, einen Ätherdrachen zu klonen, waren erfolgreich und es wurde ein Jungtier gezüchtet. Die Kreatur ist in Anwesenheit unseres wissenschaftlichen Personals einigermaßen fügsam und kann, so sagen sie, dazu gebracht werden, ihre bereits beachtliche Kraft für unsere Sache einzusetzen."
+
+########################################
+###         Static Modifiers         ###
+########################################
+
+esc_ai_early_game_science_boost_easy: "Extra Ship Components KI-Forschungsboost (Einfach skaliert)"
+esc_ai_early_game_science_boost_easy_desc: "KI Reiche erhalten einen skalierten Forschungsgeschwindigkeitsbonus:\n+§G10§!% im early-game\n+§G25§!% im mid-game\n+§G50§!% im late-game"
+esc_ai_mid_game_science_boost_easy: "$esc_ai_early_game_science_boost_easy$"
+esc_ai_mid_game_science_boost_easy_desc: "$esc_ai_early_game_science_boost_easy_desc$"
+esc_ai_end_game_science_boost_easy: "$esc_ai_early_game_science_boost_easy$"
+esc_ai_end_game_science_boost_easy_desc: "$esc_ai_early_game_science_boost_easy_desc$"
+esc_ai_science_boost_easy_static: "Extra Ship Components KI-Forschungsboost (Einfach statisch)"
+esc_ai_science_boost_easy_static_desc: "KI Reiche erhalten +§G25§!% Forschungsgeschwindigkeitsbonus im gesamten Spiel."
+
+esc_ai_early_game_science_boost_moderate: "Extra Ship Components KI-Forschungsboost (Mäßig skaliert)"
+esc_ai_early_game_science_boost_moderate_desc: "KI Reiche erhalten einen skalierten Forschungsgeschwindigkeitsbonus:\n+§G25§!% im early-game\n+§G50§!% im mid-game\n+§G100§!% im late-game"
+esc_ai_mid_game_science_boost_moderate: "$esc_ai_early_game_science_boost_moderate$"
+esc_ai_mid_game_science_boost_moderate_desc: "$esc_ai_early_game_science_boost_moderate_desc$"
+esc_ai_end_game_science_boost_moderate: "$esc_ai_early_game_science_boost_moderate$"
+esc_ai_end_game_science_boost_moderate_desc: "$esc_ai_early_game_science_boost_moderate_desc$"
+esc_ai_science_boost_moderate_static: "Extra Ship Components KI-Forschungsboost (Mäßig statisch)"
+esc_ai_science_boost_moderate_static_desc: "KI Reiche erhalten +§G50§!% Forschungsgeschwindigkeitsbonus im gesamten Spiel."
+
+esc_ai_early_game_science_boost_challenging: "Extra Ship Components KI-Forschungsboost (Herausfordernd skaliert)"
+esc_ai_early_game_science_boost_challenging_desc: "KI Reiche erhalten einen skalierten Forschungsgeschwindigkeitsbonus:\n+§G50§!% im early-game\n+§G100§!% im mid-game\n+§G150§!% im late-game"
+esc_ai_mid_game_science_boost_challenging: "$esc_ai_early_game_science_boost_challenging$"
+esc_ai_mid_game_science_boost_challenging_desc: "$esc_ai_early_game_science_boost_challenging_desc$"
+esc_ai_end_game_science_boost_challenging: "$esc_ai_early_game_science_boost_challenging$"
+esc_ai_end_game_science_boost_challenging_desc: "$esc_ai_early_game_science_boost_challenging_desc$"
+esc_ai_science_boost_challenging_static: "Extra Ship Components KI-Forschungsboost (Herausfordernd statisch)"
+esc_ai_science_boost_challenging_static_desc: "KI Reiche erhalten +§G100§!% Forschungsgeschwindigkeitsbonus im gesamten Spiel."
+
+esc_ai_psionic_charges_boost: "KI Psionische Ladung-Boost"
+esc_ai_psionic_charges_boost_desc: "Zusätzliche Ressourcen für die KI"
+mod_country_base_esc_psionic_charge_produces_add: "Monatliche £esc_psionic_charge£ Psionische Ladungen"
+
+esc_ai_living_crystals_boost: "KI Lebendkristall-Boost"
+esc_ai_living_crystals_boost_desc: "$esc_ai_psionic_charges_boost_desc$"
+mod_country_base_esc_living_crystal_produces_add: "Monatliche £esc_living_crystal£ Lebendkristalle"
+
+esc_ai_gravitic_anomaly_boost: "KI Gravitische Anomalie-Boost"
+esc_ai_gravitic_anomaly_boost_desc: "$esc_ai_psionic_charges_boost_desc$"
+mod_country_base_esc_gravitic_anomaly_produces_add: "Monatliche £esc_gravitic_anomaly£ Gravitische Anomalien"
+
+esc_ai_enigmatic_energy_boost: "KI Enigmatische Energie-Boost"
+esc_ai_enigmatic_energy_boost_desc: "$esc_ai_psionic_charges_boost_desc$"
+mod_country_base_esc_enigmatic_energy_produces_add: "Monatliche £esc_enigmatic_energy£ Enigmatische Energie"
+
+esc_ai_transdimension_vortex_boost: "KI Transdimensionaler Wirbel-Boost"
+esc_ai_transdimension_vortex_boost_desc: "$esc_ai_psionic_charges_boost_desc$"
+mod_country_base_esc_transdimensional_vortex_produces_add: "Monatliche £esc_transdimensional_vortex£ Transdimensionale Wirbel"
+
+esc_ai_nanites_boost: "KI Naniten Boost"
+esc_ai_nanites_boost_desc: "$esc_ai_psionic_charges_boost_desc$"
+
+########################################
+###          Country Flags           ###
+########################################
+
+nhsc_building_centralresearchbureau_queued: "$nhsc_building_centralresearchbureau$ in Warteschlange"
+nhsc_culture_nexus_queued: "$nhsc_building_culture_nexus$ in Warteschlange"
+nhsc_advanced_materals_laboratory_queued: "$nhsc_building_materials_laboratory$ in Warteschlange"
+nhsc_technology_institute_queued: "$nhsc_building_technology_institute$ in Warteschlange"
+nhsc_watcher_of_eternity_queued: "$nhsc_building_watcher$ in Warteschlange"
+ESC_MENU_ACTIVE: "$edict_nhsc_mod_control_edict$ ist geöffnet"
+
+########################################
+###            Decisions             ###
+########################################
+
+decision_nhsc_mod_menu: "$edict_nhsc_mod_control_edict$"
+decision_nhsc_mod_menu_desc: "$edict_nhsc_mod_control_edict_desc$"
+
+decision_nhsc_clone_dragon: "Ätherdrachen Klonen"
+decision_nhsc_clone_dragon_desc: "Unser wissenschaftliches Personal wird versuchen, den Ätherdrachen zu klonen um einen jüngeren und besser formbaren Drachen unter unserer Kontrolle zu erzeugen."
+nhsc_drake_clone_requested: "Ätherdrachen-Klonung im Gange"
+
+########################################
+###              Armies              ###
+########################################
+
+esc_psionic_avatar_army: "§MPsionischer Avatar§!"
+esc_psionic_avatar_army_desc: "Ein extrem mächtiges psionisches Wesen, das beschworen wurde, um im Namen der Bewohner der materiellen Ebene zu kämpfen."
+esc_psionic_avatar_army_plural: "§MPsionische Avatare§!"
+esc_erasure_squad_army: "Löschkommando"
+esc_erasure_squad_army_desc: "Spezialeinheiten, die mit Waffen ausgerüstet sind, die ihre Feinde aus der Realität löschen können."
+esc_erasure_squad_army_plural: "Löschkommandos"
+esc_eradicator_droids_army: "Ausrottungsdroidenarmee"
+esc_eradicator_droids_army_desc: "Fortschrittliche mechanische Krieger, die mit Waffen ausgestattet sind, die ihre Feinde aus der Realität löschen können."
+esc_eradicator_droids_army_plural: "Ausrottungsdroidenarmeen"
+
+########################################
+###         Dummy ship sizes         ###
+########################################
+
+esc_dummy_strike_cruiser: "Dummy-Strike-Kreuzer"
+esc_dummy_strike_cruiser_desc: "Dies ist eine Dummy-Schiffsgröße, die verwendet wird, um das Problem zu umgehen, dass size_restriction Komponenten nicht einschränken kann, wenn die Liste der erlaubten Schiffsgrößen keine gültigen Einträge enthält. SIE SOLLTEN DIES NICHT SEHEN!"
+esc_dummy_strike_cruiser_plural: "Dummy-Strike-Kreuzer"
+
+esc_dummy_battle_cruiser: "Dummy-Schlachtkreuzer"
+esc_dummy_battle_cruiser_desc: "$esc_dummy_strike_cruiser_desc$"
+esc_dummy_battle_cruiser_plural: "Dummy-Schlachtkreuzer"
+
+esc_dummy_carrier: "Dummy-Träger"
+esc_dummy_carrier_desc: "$esc_dummy_strike_cruiser_desc$"
+esc_dummy_carrier_plural: "Dummy-Träger"
+
+esc_dummy_dreadnought: "Dummy-Dreadnought"
+esc_dummy_dreadnought_desc: "$esc_dummy_strike_cruiser_desc$"
+esc_dummy_dreadnought_plural: "Dummy-Dreadnoughts"
+
+esc_dummy_flagship: "Dummy-Flaggschiff"
+esc_dummy_flagship_desc: "$esc_dummy_strike_cruiser_desc$"
+esc_dummy_flagship_plural: "Dummy-Flaggschiff"
+
+esc_dummy_scx_dreadnought: "Dummy-Dreadnought"
+esc_dummy_scx_dreadnought_desc: "$esc_dummy_strike_cruiser_desc$"
+esc_dummy_scx_dreadnought_plural: "Dummy-Dreadnoughts"
+
+esc_dummy_military_platform: "Dummy-Verteidigungsplattform"
+esc_dummy_military_platform_desc: "$esc_dummy_strike_cruiser_desc$"
+esc_dummy_military_platform_plural: "Dummy-Verteidigungsplattformen"
+
+esc_dummy_starbase: "Dummy-Sternenbasis"
+esc_dummy_starbase_desc: "$esc_dummy_strike_cruiser_desc$"
+esc_dummy_starbase_plural: "Dummy-Sternenbasen"
+
+esc_dummy_juggernaut: "Dummy-Juggernaut"
+esc_dummy_juggernaut_desc: "$esc_dummy_strike_cruiser_desc$"
+esc_dummy_juggernaut_plural: "Dummy-Juggernauts"
+
+########################################
+###         Starbase Modules         ###
+########################################
+
+sm_nhsc_starbase_dm_orbital_plant: "Dunkle Materie Orbitalanlage"
+sm_nhsc_starbase_dm_orbital_plant_desc: "Eine massive Anlage innerhalb der Sternenbasis, die der Produktion von dunkler Materie gewidmet ist. Sie kann zwar überall betrieben werden, ist aber am effektivsten, wenn eine natürliche Quelle dunkler Materie, wie z.B. ein Schwarzes Loch, in der Nähe ist."
+sm_nhsc_starbase_zro_orbital_plant: "Zro Orbitalanlage"
+sm_nhsc_starbase_zro_orbital_plant_desc: "Eine spezialisierte Anlage zur Herstellung von synthetischem Zro. Die Effizienz kann gesteigert werden, wenn eine natürliche Zro-Quelle in der Nähe ist."
+sm_nhsc_starbase_nanite_factory: "Naniten Orbitalanlage"
+sm_nhsc_starbase_nanite_factory_desc: "Eine orbitale Anlage zur industriellen Herstellung von Naniten. Eine natürliche Quelle für Naniten in der Nähe zu haben wird zweifellos die Produktivität erhöhen."
+sm_nhsc_starbase_gravitic_anomaly_collector: "Gravitischer Anomalienkollektor"
+sm_nhsc_starbase_gravitic_anomaly_collector_desc: "Eine riesige Anlage zum Einfangen und Speichern gravitischer Anomalien. Sie kann an jedem beliebigen Ort künstlich erzeugen, aber wenn eine natürliche Quelle hochenergetischer gravitativer Wechselwirkung, wie Neutronensterne oder Quasare, in der Nähe ist, erhöht sich ihre Effizienz."
+sm_nhsc_starbase_crystal_farm: "Lebendkristall-Orbitalfarm"
+sm_nhsc_starbase_crystal_farm_desc: "Eine Orbitalfarm für den Anbau von Lebendkristall. Produziert kleine Mengen von Legierungen als Nebenprodukt."
+sm_nhsc_starbase_psionic_energy_collector: "Psionischer Energiesammler"
+sm_nhsc_starbase_psionic_energy_collector_desc: "Eine spezialisierte Anordnung von psionischen Energiekollektoren zur Herstellung von psionischen Ladungen unter Verwendung psionischer Energien, die von Lebewesen innerhalb des Systems ausgestrahlt werden."
+sm_nhsc_starbase_enigmatic_energy_plant: "Enigmatische Energie-Orbitalanlage"
+sm_nhsc_starbase_enigmatic_energy_plant_desc: "Massive enigmatische Energiespule, die in den Raumhafen eingebaut ist. Kann durch Manipulation des Flusses der dunklen Materie rätselhafte Energie erzeugen."
+sm_nhsc_starbase_vortex_laboratory: "Transdimensionales Wirbellabor"
+sm_nhsc_starbase_vortex_laboratory_desc: "Ein massives Labor in einem Raumhafen, das sich der Synthese transdimensionaler Wirbel widmet. Die Effizienz dieses Labors erhöht sich erheblich, wenn ein realitätsveränderndes Objekt wie ein Quasar oder ein (hypothetisches) Weißes Loch vorhanden ist."
+
+########################################
+###            Modifiers             ###
+########################################
+
+mod_megastructures_cost_mult: "Megastruktur Baukosten"
+mod_country_base_nanites_produces_add: "Monatliche £nanites£ Naniten"
+mod_planet_telepaths_esc_psionic_charge_produces_add: "£esc_psionic_charge£ §Y$esc_psionic_charge_plural$§! von $job_telepath_plural$"
+mod_planet_synapse_drones_esc_psionic_charge_produces_add: "£esc_psionic_charge£ §Y$esc_psionic_charge_plural$§! von $job_synapse_drone_plural$"
+
+########################################
+###         Dynamic Mod Menu         ###
+########################################
+
+nhsc_name_id: "Extra Ship Components 3.0"

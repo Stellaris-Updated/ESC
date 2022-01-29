@@ -1,0 +1,153 @@
+>>> 07.01.2021
+- Rewrote a number of monthly pulse and yearly pulse events to make them a bit more optimized by reducing the number of scopes they're run on.
+- Updated ai_weight for a number of buildings to make them more compatible with Starnet AI.
+- Added some support for non-default playable country types such as Real Space New Frontier's Ark origin.
+- Removed old Automated Dreadnought combat computers. If you somehow were still using them... too bad.
+
+>>> 09.01.2021
+- Properly restricted flags for ESC dangerous tech research to playable empires.
+
+>>> 10.01.2021
+- Properly restricted flags for ESC dangerous tech research to playable empires for real this time (hopefully).
+- Also added a global flag to prevent the crisis condition checker event from scheduling the crisis triggering event more than once per invasion cycle.
+
+>>> 17.01.2021
+- Fixed a bug where T-sized autocannons used MHD cannon's projectile.
+- Improved and Perfected Dark Matter reactors should now reduce Juggernaut upkeep properly.
+- Updated localizations for Juggernaut versions of T-slot weapons to hopefully make it clear that those X-slots are for Juggernaut only.
+
+>>> 24.01.2021
+- Normalize thruster speed bonuses across thruster tiers.
+- Update on_tech_increased scripted effects for strikecrafts.
+- Add support for planned standalone version of NSC Freebooters origin's flagship.
+- Add components for ESC Overwrites Shroud Avatar designs.
+
+>>> 07.02.2021
+- Update reactors for the new version of NSC.
+- Split battleship and titan reactors into NSC and non-NSC versions.
+- NSC Exploration cruiser now uses NSC Battlecruiser reactors instead of NSC Carrier ones.
+
+>>> 09.02.2021
+- Fix NSC Battlecruiser reactors.
+
+>>> 18.02.2021
+- Further boost to NSC titan reactors.
+- Upgrade fortress (tier 3 platform) reactors.
+- Fix localizations issue with Juggernaut Matter Annihilator.
+- Redo AI bonus customization:
+    - Allow customization of AI special resources bonus:
+        - Default is enabled.
+    - Expand upon AI research speed bonuses. Following options are available:
+        - Easy scaling (default)
+        - Easy static
+        - Moderate scaling
+        - Moderate static
+        - Challenging scaling
+        - Challenging static
+        - Disabled
+    - NOTE: due to how the update was handled, in the on-going games AI will lose its research speed bonuses if those were enabled.
+
+>>> 22.02.2021
+- Updated Forgotten Queens Support
+
+>>> 03.03.2021
+- More Forgotten Queens Support
+- Fixed a bug with repeated Unbidden invasions.
+
+>>> 17.04.2021
+- Updated the mod for Stellaris 3.0
+- Add support for Nemesis DLC ship sizes.
+- Use vanilla 'has resources to use component' triggers for component ai_weight.
+- Fix descriptions for A.T. Field being not Evangelion-y enough.
+- Fix missing ai_weight blocks for certain strikecrafts.
+- Fix missing ai_weight modifiers for lack of resources on advanced jump drives.
+
+>>> 23.04.2021
+- Fix usage of global flags for crystalline entities that no longer exist in vanilla.
+
+>>> 27.04.2021
+- Fix one of dummy ship_sizes used to fix empty size_restriction bug not having designable = no.
+
+>>> 16.05.2021
+- Minor update to AI economic plans.
+- Remove unnecessary string varibles for civics triggers.
+- Expand the list of planet classes that allow construction of Mantle Mining Facility with more Planetary Diversity arcologies.
+- Update hivemind pop requirements for Improved Mantle Mining Facility to match Stellaris 3.0.3 max tier capital pop requirements.
+- Update icon for the Psionic Confinement building.
+- Change tech weight modifiers for Time-Space Manipulation to make it a bit more accessible to console users.
+- Add a few missing localization strings for modifiers.
+
+>>> 19.05.2021
+- Starnet AI compatibility update. For those without Starnet, this will make AI more eager to research ESC technologies.
+- Export logic determining whether a country may research titanic/juggernaut X-slot weapons into a scripted trigger.
+- Reduce number of jobs provided by Culture Nexus/Cerebral Node/Network Regulator a bit.
+- Minor tweaks to repeated Unbidden invasions.
+
+>>> 22.05.2021
+- Empire that defeats the Ether Drake can now build a Dragon Hatchery building (empire-unique), which allows cloning of drake hatchlings.
+    - Cloning a drake hatchling takes 360 days and will spawn it as a new fleet. These fleets can be merged and can have an admiral assigned to them.
+    - Not available for Determined Exterminators.
+    - Only Ether Drakes killed after this update will provide access to the technology needed for the Hatchery construction.
+
+>>> 31.05.2021
+- Buff health of X and T missiles.
+- Normalize production and upkeep of ESC special resource jobs. Base production is now 2x higher to reduce the need for multiple buildings.
+- Increase Zro and Dark Matter upkeeps of ESC buildings.
+- Robotic pops without free will no longer can work Channeler jobs.
+- Unemployed pops that worked ESC special resource jobs are now more likely to return to their former occupation if there is a new opening.
+- Add starbase modules for ESC special resources, zro and dark matter.
+    - Psionic Energy Collector can only be built in inhabited systems.
+    - Some of these starbase modules have increased efficiency under certain conditions.
+- Improved Crystal Farm now provides 4 jobs instead of 5.
+
+>>> 31.05.2021
+- Bug fix: new starbase modules are now properly available only when their respective technologies are researched.
+
+>>> 04.06.2021
+- Add "Psionically-Unified Society" technology that makes telepaths produce a small amount of Psionic Charges each month.
+- Add "Psionic Overmind" technology that makes synapse drones produce a small amount of Psionic Charges each month.
+- Add missing possible_pre_triggers to ESC jobs.
+
+>>> 11.07.2021
+- Mantle Mining Facility can now be built on New Frontier's Infernal Worlds.
+- New icon for the Central Research Bureau building.
+
+>>> 18.07.2021
+- New titanic weapon added: Asteroid Thrower. Available immediately after researching titans, and acts as a kinetic counterpart to Perdition Beam.
+- Fix overwritten Scourge strikecrafts not having armor penetration.
+- Fix Ravaging Swarmers not having armor penetration.
+
+>>> 06.08.2021
+- Add support for Reastic Ships Necriod (which was missing for some reason) and Imperial shipsets.
+- Integrate Chinese localization by Against War, Charles Chu and Zois Lee.
+
+>>> 08.08.2021
+- Integrate improvements to Chinese localization by FlantingCort.
+
+>>> 22.08.2021
+- Remove duplicate entry for Playable Fallen Empire Battlecruiser thrusters.
+- Integrate German localization by BonumMonstrum.
+
+>>> 12.08.2021
+- Add support for Dynamic Mod Menu.
+
+>>> 14.08.2021
+- Update for Stellaris version 3.1
+- Fix a scoping error that prevented an empire getting access to drake-cloning tech via capturing a planet with the Hatchery.
+- Switched to using vanilla version or empire limit enforcement for buildings.
+- Central Research Bureau now requires major capital (25+ pops).
+- Add custom army icons.
+
+>>> 27.09.2021
+- Allow construction of Mantle Mining Facility on Planetary Diversity's Crucible world.
+- Killing Automated Dreadnought will now instantly give tech option for Dreadnought Computers. If there is an ongoing project for Dreadnought observation, it will be aborted.
+- Add support for War Juggernaut.
+
+>>> 28.10.2021
+- Fix type in Gravitational Anomaly Projector tech name.
+- Fix pop weights towards Crystal Farming jobs.
+
+>>> 22.11.2021
+- Update for Stellaris version 3.2
+- Cleaned up some event triggering.
+    - WARNING: This might cause slightly-different behavior of the mod, such as delayed feature activation, in multiplayer games if it is added after the game start.
