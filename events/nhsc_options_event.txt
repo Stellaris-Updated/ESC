@@ -385,8 +385,8 @@ country_event = {
 			NOR = {
 				has_global_flag = ESC_reactors_forbidden
 				has_global_flag = ESC_thrusters_forbidden
+				has_global_flag = ESC_weapons_wavemotion_forbidden
 			}
-			NOT = { has_global_flag = ESC_weapons_wavemotion_forbidden }
 		}
 		hidden_effect = {
 			set_global_flag = ESC_weapons_wavemotion_forbidden

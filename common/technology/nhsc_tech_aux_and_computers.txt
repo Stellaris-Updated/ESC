@@ -115,8 +115,8 @@ nhsc_tech_reactor_booster_4 = {
 		NOR = {
 			has_global_flag = ESC_aux_forbidden
 			has_global_flag = ESC_reactors_forbidden
+			has_global_flag = @NSC_active_flag
 		}
-		NOT = { has_global_flag = @NSC_active_flag }
 	}
 
 	weight_modifier = {
@@ -160,8 +160,8 @@ nhsc_tech_reactor_booster_5 = {
 		NOR = {
 			has_global_flag = ESC_aux_forbidden
 			has_global_flag = ESC_reactors_forbidden
+			has_global_flag = @NSC_active_flag
 		}
-		NOT = { has_global_flag = @NSC_active_flag }
 	}
 
 	weight_modifier = {

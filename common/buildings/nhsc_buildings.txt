@@ -32,8 +32,8 @@ nhsc_building_centralresearchbureau = {
 		NOR = {
 			has_modifier = resort_colony
 			has_modifier = slave_colony
+			has_global_flag = ESC_central_research_bureau_forbidden
 		}
-		NOT = { has_global_flag = ESC_central_research_bureau_forbidden }
 	}
 
 	allow = {
@@ -921,8 +921,8 @@ nhsc_building_watcher = {
 		NOR = {
 			has_modifier = resort_colony
 			has_modifier = slave_colony
+			has_global_flag = ESC_watcher_forbidden
 		}
-		NOT = { has_global_flag = ESC_watcher_forbidden }
 	}
 
 	allow = {
@@ -1051,8 +1051,8 @@ nhsc_building_stellar_energy_tower = {
 		NOR = {
 			has_modifier = resort_colony
 			has_modifier = slave_colony
+			has_global_flag = ESC_stellarite_tech_forbidden
 		}
-		NOT = { has_global_flag = ESC_stellarite_tech_forbidden }
 	}
 
 	allow = {
@@ -1168,8 +1168,8 @@ nhsc_building_quantum_node = {
 		NOR = {
 			has_modifier = resort_colony
 			has_modifier = slave_colony
+			has_global_flag = ESC_technosphere_tech_forbidden
 		}
-		NOT = { has_global_flag = ESC_technosphere_tech_forbidden }
 	}
 
 	allow = { has_upgraded_capital = yes }
@@ -1288,8 +1288,8 @@ nhsc_building_reprocessing_plant = {
 		NOR = {
 			has_modifier = resort_colony
 			has_modifier = slave_colony
+			has_global_flag = ESC_scrapper_tech_forbidden
 		}
-		NOT = { has_global_flag = ESC_scrapper_tech_forbidden }
 	}
 
 	allow = { has_upgraded_capital = yes }
@@ -1397,8 +1397,8 @@ nhsc_building_zro_distillery = {
 		NOR = {
 			has_modifier = resort_colony
 			has_modifier = slave_colony
+			has_global_flag = ESC_zro_dist_forbidden
 		}
-		NOT = { has_global_flag = ESC_zro_dist_forbidden }
 	}
 
 	allow = { has_upgraded_capital = yes }
@@ -1531,8 +1531,8 @@ nhsc_building_dark_matter_facility = {
 		NOR = {
 			has_modifier = resort_colony
 			has_modifier = slave_colony
+			has_global_flag = ESC_dark_matter_forbidden
 		}
-		NOT = { has_global_flag = ESC_dark_matter_forbidden }
 	}
 
 	allow = { has_upgraded_capital = yes }
