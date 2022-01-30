@@ -896,7 +896,7 @@ nhsc_tech_arcenciel = {
 
 	### no Apocalypse DLC version
 	potential = {
-		NOT = { esc_may_research_oversized_weapons = yes }
+		esc_may_research_oversized_weapons = no
 		NOT = { has_global_flag = ESC_weapons_chrono_forbidden }
 	}
 

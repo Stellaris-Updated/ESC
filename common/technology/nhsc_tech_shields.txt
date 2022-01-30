@@ -135,8 +135,10 @@ nhsc_tech_waveforcearmor = {
 	is_reverse_engineerable = no
 
 	potential = {
-		NOT = { has_global_flag = ESC_shields_forbidden }
-		NOT = { has_global_flag = ESC_weapons_chrono_forbidden }
+		NOR = {
+			has_global_flag = ESC_shields_forbidden
+			has_global_flag = ESC_weapons_chrono_forbidden
+		}
 	}
 
 	weight_modifier = {
@@ -518,8 +520,10 @@ nhsc_tech_psionic_shield_2 = {
 	is_reverse_engineerable = no
 
 	potential = {
-		NOT = { has_global_flag = ESC_shields_forbidden }
-		NOT = { has_global_flag = ESC_weapons_psionic_forbidden }
+		NOR = {
+			has_global_flag = ESC_shields_forbidden
+			has_global_flag = ESC_weapons_psionic_forbidden
+		}
 	}
 
 	weight_modifier = {
@@ -582,8 +586,10 @@ nhsc_tech_atfield = {
 	is_reverse_engineerable = no
 
 	potential = {
-		NOT = { has_global_flag = ESC_shields_forbidden }
-		NOT = { has_global_flag = ESC_weapons_psionic_forbidden }
+		NOR = {
+			has_global_flag = ESC_shields_forbidden
+			has_global_flag = ESC_weapons_psionic_forbidden
+		}
 	}
 
 	weight_modifier = {

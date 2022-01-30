@@ -112,8 +112,10 @@ nhsc_tech_reactor_booster_4 = {
 	prerequisites = { "tech_zero_point_power" "tech_reactor_boosters_3" "nhsc_tech_central_research_bureau" }
 
 	potential = {
-		NOT = { has_global_flag = ESC_aux_forbidden }
-		NOT = { has_global_flag = ESC_reactors_forbidden }
+		NOR = {
+			has_global_flag = ESC_aux_forbidden
+			has_global_flag = ESC_reactors_forbidden
+		}
 		NOT = { has_global_flag = @NSC_active_flag }
 	}
 
@@ -155,8 +157,10 @@ nhsc_tech_reactor_booster_5 = {
 	is_rare = yes
 
 	potential = {
-		NOT = { has_global_flag = ESC_aux_forbidden }
-		NOT = { has_global_flag = ESC_reactors_forbidden }
+		NOR = {
+			has_global_flag = ESC_aux_forbidden
+			has_global_flag = ESC_reactors_forbidden
+		}
 		NOT = { has_global_flag = @NSC_active_flag }
 	}
 
@@ -570,8 +574,10 @@ nhsc_tech_psionic_reinforcement = {
 	}
 
 	potential = {
-		NOT = { has_global_flag = ESC_aux_forbidden }
-		NOT = { has_global_flag = ESC_weapons_psionic_forbidden }
+		NOR = {
+			has_global_flag = ESC_aux_forbidden
+			has_global_flag = ESC_weapons_psionic_forbidden
+		}
 	}
 
 	weight_modifier = {

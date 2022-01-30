@@ -1195,8 +1195,10 @@ strike_craft_tech_check = {
 	if = {
 		limit = {
 			has_technology = "nhsc_tech_psionic_strikecraft"
-			NOT = { has_authority = auth_machine_intelligence }
-			NOT = { has_technology = "nhsc_tech_psionic_weapons" }
+			NOR = {
+				has_authority = auth_machine_intelligence
+				has_technology = "nhsc_tech_psionic_weapons"
+			}
 		}
 		give_technology = { message = no tech = nhsc_tech_psionic_weapons }
 	}
@@ -1596,8 +1598,10 @@ psionic_cannon_tech_check = {
 	if = {
 		limit = {
 			has_technology = "nhsc_tech_psionic_cannon_3"
-			NOT = { has_authority = auth_machine_intelligence }
-			NOT = { has_technology = "nhsc_tech_psionic_cannon_2" }
+			NOR = {
+				has_authority = auth_machine_intelligence
+				has_technology = "nhsc_tech_psionic_cannon_2"
+			}
 		}
 		give_technology = { message = no tech = nhsc_tech_psionic_cannon_2 }
 	}
@@ -1605,8 +1609,10 @@ psionic_cannon_tech_check = {
 	if = {
 		limit = {
 			has_technology = "nhsc_tech_psionic_cannon_2"
-			NOT = { has_authority = auth_machine_intelligence }
-			NOT = { has_technology = "nhsc_tech_psionic_cannon_1" }
+			NOR = {
+				has_authority = auth_machine_intelligence
+				has_technology = "nhsc_tech_psionic_cannon_1"
+			}
 		}
 		give_technology = { message = no tech = nhsc_tech_psionic_cannon_1 }
 	}
@@ -1614,8 +1620,10 @@ psionic_cannon_tech_check = {
 	if = {
 		limit = {
 			has_technology = "nhsc_tech_psionic_cannon_1"
-			NOT = { has_authority = auth_machine_intelligence }
-			NOT = { has_technology = "nhsc_tech_psionic_weapons" }
+			NOR = {
+				has_authority = auth_machine_intelligence
+				has_technology = "nhsc_tech_psionic_weapons"
+			}
 		}
 		give_technology = { message = no tech = nhsc_tech_psionic_weapons }
 	}
@@ -1630,8 +1638,10 @@ psionic_torpedo_tech_check = {
 	if = {
 		limit = {
 			has_technology = "nhsc_tech_psionic_torpedo_2"
-			NOT = { has_authority = auth_machine_intelligence }
-			NOT = { has_technology = "nhsc_tech_psionic_torpedo_1" }
+			NOR = {
+				has_authority = auth_machine_intelligence
+				has_technology = "nhsc_tech_psionic_torpedo_1"
+			}
 		}
 		give_technology = { message = no tech = nhsc_tech_psionic_torpedo_1 }
 	}
@@ -1639,8 +1649,10 @@ psionic_torpedo_tech_check = {
 	if = {
 		limit = {
 			has_technology = "nhsc_tech_psionic_torpedo_1"
-			NOT = { has_authority = auth_machine_intelligence }
-			NOT = { has_technology = "nhsc_tech_psionic_weapons" }
+			NOR = {
+				has_authority = auth_machine_intelligence
+				has_technology = "nhsc_tech_psionic_weapons"
+			}
 		}
 		give_technology = { message = no tech = nhsc_tech_psionic_weapons }
 	}

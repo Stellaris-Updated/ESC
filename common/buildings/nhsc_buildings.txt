@@ -29,8 +29,10 @@ nhsc_building_centralresearchbureau = {
 	empire_limit = { base = 1 }
 
 	potential = {
-		NOT = { has_modifier = resort_colony }
-		NOT = { has_modifier = slave_colony }
+		NOR = {
+			has_modifier = resort_colony
+			has_modifier = slave_colony
+		}
 		NOT = { has_global_flag = ESC_central_research_bureau_forbidden }
 	}
 
@@ -172,8 +174,10 @@ nhsc_building_culture_nexus = {
 	empire_limit = { base = 1 }
 
 	potential = {
-		NOT = { has_modifier = slave_colony }
-		NOT = { has_global_flag = ESC_cult_nexus_forbidden }
+		NOR = {
+			has_modifier = slave_colony
+			has_global_flag = ESC_cult_nexus_forbidden
+		}
 		exists = owner
 		owner = { is_regular_empire = yes }
 	}
@@ -365,8 +369,10 @@ nhsc_building_cerebral_node = {
 	empire_limit = { base = 1 }
 
 	potential = {
-		NOT = { has_modifier = slave_colony }
-		NOT = { has_global_flag = ESC_cult_nexus_forbidden }
+		NOR = {
+			has_modifier = slave_colony
+			has_global_flag = ESC_cult_nexus_forbidden
+		}
 		exists = owner
 		owner = { is_hive_empire = yes }
 	}
@@ -500,8 +506,10 @@ nhsc_building_network_regulator = {
 	empire_limit = { base = 1 }
 
 	potential = {
-		NOT = { has_modifier = slave_colony }
-		NOT = { has_global_flag = ESC_cult_nexus_forbidden }
+		NOR = {
+			has_modifier = slave_colony
+			has_global_flag = ESC_cult_nexus_forbidden
+		}
 		exists = owner
 		owner = { is_machine_empire = yes }
 	}
@@ -634,8 +642,10 @@ nhsc_building_materials_laboratory = {
 	empire_limit = { base = 1 }
 
 	potential = {
-		NOT = { has_modifier = slave_colony }
-		NOT = { has_global_flag = ESC_mat_laboratory_forbidden }
+		NOR = {
+			has_modifier = slave_colony
+			has_global_flag = ESC_mat_laboratory_forbidden
+		}
 	}
 
 	allow = {
@@ -770,8 +780,10 @@ nhsc_building_technology_institute = {
 	empire_limit = { base = 1 }
 
 	potential = {
-		NOT = { has_modifier = slave_colony }
-		NOT = { has_global_flag = ESC_tech_institute_forbidden }
+		NOR = {
+			has_modifier = slave_colony
+			has_global_flag = ESC_tech_institute_forbidden
+		}
 	}
 
 	allow = {
@@ -906,8 +918,10 @@ nhsc_building_watcher = {
 	empire_limit = { base = 1 }
 
 	potential = {
-		NOT = { has_modifier = resort_colony }
-		NOT = { has_modifier = slave_colony }
+		NOR = {
+			has_modifier = resort_colony
+			has_modifier = slave_colony
+		}
 		NOT = { has_global_flag = ESC_watcher_forbidden }
 	}
 
@@ -1034,8 +1048,10 @@ nhsc_building_stellar_energy_tower = {
 	category = resource
 
 	potential = {
-		NOT = { has_modifier = resort_colony }
-		NOT = { has_modifier = slave_colony }
+		NOR = {
+			has_modifier = resort_colony
+			has_modifier = slave_colony
+		}
 		NOT = { has_global_flag = ESC_stellarite_tech_forbidden }
 	}
 
@@ -1149,8 +1165,10 @@ nhsc_building_quantum_node = {
 	category = research
 
 	potential = {
-		NOT = { has_modifier = resort_colony }
-		NOT = { has_modifier = slave_colony }
+		NOR = {
+			has_modifier = resort_colony
+			has_modifier = slave_colony
+		}
 		NOT = { has_global_flag = ESC_technosphere_tech_forbidden }
 	}
 
@@ -1267,8 +1285,10 @@ nhsc_building_reprocessing_plant = {
 	category = manufacturing
 
 	potential = {
-		NOT = { has_modifier = resort_colony }
-		NOT = { has_modifier = slave_colony }
+		NOR = {
+			has_modifier = resort_colony
+			has_modifier = slave_colony
+		}
 		NOT = { has_global_flag = ESC_scrapper_tech_forbidden }
 	}
 
@@ -1374,8 +1394,10 @@ nhsc_building_zro_distillery = {
 	category = manufacturing
 
 	potential = {
-		NOT = { has_modifier = resort_colony }
-		NOT = { has_modifier = slave_colony }
+		NOR = {
+			has_modifier = resort_colony
+			has_modifier = slave_colony
+		}
 		NOT = { has_global_flag = ESC_zro_dist_forbidden }
 	}
 
@@ -1506,8 +1528,10 @@ nhsc_building_dark_matter_facility = {
 	category = manufacturing
 
 	potential = {
-		NOT = { has_modifier = resort_colony }
-		NOT = { has_modifier = slave_colony }
+		NOR = {
+			has_modifier = resort_colony
+			has_modifier = slave_colony
+		}
 		NOT = { has_global_flag = ESC_dark_matter_forbidden }
 	}
 

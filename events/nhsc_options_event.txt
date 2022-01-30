@@ -124,8 +124,10 @@ country_event = {
 		name = esc_option.1.repeated_unbidden.b
 		custom_tooltip = esc_option.1.repeated_unbidden.b.tooltip
 		trigger = {
-			NOT = { has_global_flag = nhsc_unbidden_invasion_forbidden }
-			NOT = { has_global_flag = nhsc_repeated_unbidden_invasion }
+			NOR = {
+				has_global_flag = nhsc_unbidden_invasion_forbidden
+				has_global_flag = nhsc_repeated_unbidden_invasion
+			}
 		}
 		hidden_effect = {
 			set_global_flag = nhsc_repeated_unbidden_invasion
@@ -268,8 +270,10 @@ country_event = {
 		name = esc_option.2.plasmamissile.a
 		custom_tooltip = esc_option.2.plasmamissile.a.tooltip
 		trigger = {
-			NOT = { has_global_flag = ESC_weapons_vanilla_forbidden }
-			NOT = { has_global_flag = ESC_weapons_plasmamissile_forbidden }
+			NOR = {
+				has_global_flag = ESC_weapons_vanilla_forbidden
+				has_global_flag = ESC_weapons_plasmamissile_forbidden
+			}
 		}
 		hidden_effect = {
 			set_global_flag = ESC_weapons_plasmamissile_forbidden
@@ -294,8 +298,10 @@ country_event = {
 		name = esc_option.2.xmissiles.a
 		custom_tooltip = esc_option.2.xmissiles.a.tooltip
 		trigger = {
-			NOT = { has_global_flag = ESC_weapons_vanilla_forbidden }
-			NOT = { has_global_flag = ESC_weapons_xmissiles_forbidden }
+			NOR = {
+				has_global_flag = ESC_weapons_vanilla_forbidden
+				has_global_flag = ESC_weapons_xmissiles_forbidden
+			}
 		}
 		hidden_effect = {
 			set_global_flag = ESC_weapons_xmissiles_forbidden
@@ -320,8 +326,10 @@ country_event = {
 		name = esc_option.2.xautocannons.a
 		custom_tooltip = esc_option.2.xautocannons.a.tooltip
 		trigger = {
-			NOT = { has_global_flag = ESC_weapons_vanilla_forbidden }
-			NOT = { has_global_flag = ESC_weapons_xautocannons_forbidden }
+			NOR = {
+				has_global_flag = ESC_weapons_vanilla_forbidden
+				has_global_flag = ESC_weapons_xautocannons_forbidden
+			}
 		}
 		hidden_effect = {
 			set_global_flag = ESC_weapons_xautocannons_forbidden
@@ -346,8 +354,10 @@ country_event = {
 		name = esc_option.2.juggernaut.a
 		custom_tooltip = esc_option.2.juggernaut.a.tooltip
 		trigger = {
-			NOT = { has_global_flag = ESC_weapons_vanilla_forbidden }
-			NOT = { has_global_flag = ESC_weapons_juggernaut_forbidden }
+			NOR = {
+				has_global_flag = ESC_weapons_vanilla_forbidden
+				has_global_flag = ESC_weapons_juggernaut_forbidden
+			}
 		}
 		hidden_effect = {
 			set_global_flag = ESC_weapons_juggernaut_forbidden
@@ -372,8 +382,10 @@ country_event = {
 		name = esc_option.2.wavemotion.a
 		custom_tooltip = esc_option.2.wavemotion.a.tooltip
 		trigger = {
-			NOT = { has_global_flag = ESC_reactors_forbidden }
-			NOT = { has_global_flag = ESC_thrusters_forbidden }
+			NOR = {
+				has_global_flag = ESC_reactors_forbidden
+				has_global_flag = ESC_thrusters_forbidden
+			}
 			NOT = { has_global_flag = ESC_weapons_wavemotion_forbidden }
 		}
 		hidden_effect = {
@@ -385,8 +397,10 @@ country_event = {
 		name = esc_option.2.wavemotion.b
 		custom_tooltip = esc_option.2.wavemotion.b.tooltip
 		trigger = {
-			NOT = { has_global_flag = ESC_reactors_forbidden }
-			NOT = { has_global_flag = ESC_thrusters_forbidden }
+			NOR = {
+				has_global_flag = ESC_reactors_forbidden
+				has_global_flag = ESC_thrusters_forbidden
+			}
 			has_global_flag = ESC_weapons_wavemotion_forbidden
 		}
 		hidden_effect = {

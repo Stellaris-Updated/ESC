@@ -38,15 +38,13 @@ nhsc_tech_enigmatic_energy_harvesting = {
 	weight_modifier = {
 		modifier = {
 			factor = 0.0
-			NOT = {
-				OR = {
+			NOR = {
 					has_country_flag = fortress_solved
 					has_technology = tech_enigmatic_encoder
 					has_tech_option = tech_enigmatic_encoder
 					has_technology = tech_enigmatic_decoder
 					has_tech_option = tech_enigmatic_decoder
-				}
-			}
+}
 		}
 		modifier = {
 			factor = 0.8
@@ -81,15 +79,13 @@ nhsc_tech_enigmatic_energy_harvesting = {
 		factor = @ESC_AI_tech_weight_multiplier
 		modifier = {
 			factor = 0.0
-			NOT = {
-				OR = {
+			NOR = {
 					has_country_flag = fortress_solved
 					has_technology = tech_enigmatic_encoder
 					has_tech_option = tech_enigmatic_encoder
 					has_technology = tech_enigmatic_decoder
 					has_tech_option = tech_enigmatic_decoder
-				}
-			}
+}
 		}
 		modifier = {
 			factor = 0.8
